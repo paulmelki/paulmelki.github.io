@@ -2,9 +2,7 @@
 title: Paul Melki's Blog!
 email: paulmelki@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a M2 student in Statistics & Econometrics at Toulouse School of Economics. 
-  I'm also an incoming research intern at IMS Laboratory at Universite de Bordeaux.
-  My work and research focus on Deep Learning, Computer Vision and Spatial Analysis.
+  Welcome to my personal website, o fellow wanderer!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "paulmelki.github.io" # the base hostname & protocol for your site
 github_username:  paulmelki
