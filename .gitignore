@@ -1,0 +1,28 @@
+_site
+.sass-cache
+/dross
+HIDEME
+/drafts
+/cache
+/docs/hidden
+/docs/job-materials
+/docs/non-academic-jobs
+/figure
+
+# I don't need anyone to see these files
+# They're intermediate output or private info
+docs/**/*.Rmd
+docs/**/*.tex
+docs/**/*.log
+*.Rproj
+.Rproj.user
+
+# ignore temp files w/ trailing ~
+*~
+
+# ignore hidden files
+.*
+
+# don't ignore the .gitignore file
+!.gitignore
+

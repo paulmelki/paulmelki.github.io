@@ -1,0 +1,95 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!--     <h2 class="footer-heading">{{ site.title }}</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><strong>{{ site.title }}</strong></li>
+          <li>{{ site.jobtitle }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+<!--         
+        <p class="text">
+          Department of Political Science<br />
+          232 Brackett Hall<br />
+          Clemson, SC 29634-1354</p> {{ site.description }} -->
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <ul class="social-media-list">
+
+          {% if site.google_scholar_id %}
+          <li>
+            <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+              <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
+            </a>
+          </li>
+          {% endif %}
+
+
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github" style="color:gray"></i> Github
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <i class="fa fa-linkedin" style="color:gray"></i> Linkedin
+            </a>
+          </li>
+          {% endif %}
+
+          
+          {% if site.goodreads_username %}
+          <li>
+            <a href="https://goodreads.com/{{ site.goodreads_username }}">
+              <i class="fa fa-goodreads" style="color:gray"></i> Goodreads
+            </a>
+          </li>
+          {% endif %}
+
+          <li>
+            <a href="https://letterboxd.com/paul_melki/films/by/date/">
+              <i class="fa fa-goodreads" style="color:gray"></i> Letterboxd
+            </a>
+          </li>
+
+          {% if site.orcid_id %}
+          <li>
+            <a href="https://orcid.org/{{ site.orcid_id }}">
+              <i class="ai ai-orcid" style="color:gray"></i> ORCID
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fa fa-twitter" style="color:gray"></i> Twitter
+            </a>
+          </li>
+          {% endif %}
+
+
+
+
+
+
+
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

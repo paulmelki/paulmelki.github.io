@@ -1,0 +1,496 @@
+- id: graphs
+  imagefolder: /graphs
+  images:
+  - file: arg-bra-mex-debt-1945-1990.pdf
+    title: ISI Usually Meant These Latin American Governments Took on Debt Well Beyond Their Ability to Service It
+    caption: "ISI amounts to massive subsidies or even outright ownership of enterprises, which is compounded by the fact these exports weren't competitive."
+    tags: Intro to IR
+
+  - file: arg-gdp-growth-1990-2002-oecd.pdf
+    title: Argentina's Depression Started in 1999 and Became a Full Crisis in December 2001
+    caption: "The country's GDP shrunk an astounding 67% from 1998 to 2002. By comparison, the U.S. Great Depression was a loss of about 45% of GDP from 1929 to 1933."
+    tags: Intro to IR
+
+  - file: arg-inflation-1996-2013-imf.pdf
+    title: Inflation in Argentina Increased to Over 25% from the Previous Year After 2001
+    caption: "Country experts know inflation has historically been the country's most severe recurring problem. It became a problem again after 2001."
+    tags: Intro to IR
+
+  - file: arg-peso-reer-1994-2018.pdf
+    title: Argentina's Peso Tumbled in 2001 and Has Yet to Recover
+    caption: "Losing access to foreign finance played a huge role in the depreciation of the Argentinian peso."
+    tags: Intro to IR
+
+  - file: arg-tariff-rate-1980-2016.pdf
+    title: Tariff Rates, Like Argentina's Tariff Rate Here, Were Some of the First Targets of Washington Consensus Reforms
+    caption: "Tariffs were a core component to ISI but reducing them were among the first orders of business for economic recovery."
+    tags: Intro to IR
+
+  - file: arg-tariff-rate-1980-2016.pdf
+    title: Argentina Lost Around 45% of its Dollar Reserves in the First Seven Months of 2001
+    caption: "International investors started to lose faith in the dollar peg around the time Argentina's lawmakers started to tinker with the exchange rate."
+    tags: Intro to IR
+
+  - file: arg-unemployment-rate-1990-2017.pdf
+    title: Argentina's Unemployment Rate Surged to 20% During its 2001 Depression
+    caption: "The spike followed a similar one as a result of a related 1995 banking crisis."
+    tags: Intro to IR
+
+  - file: asian-tigers-vs-latin-america.pdf
+    title: Why Did Development in These 'Asian Tigers' Far Exceed the Three Biggest Economies in Latin America?
+    caption: "One prominent answer focuses on the different development strategies we saw in East Asia vs. Latin America."
+    tags: Intro to IR
+
+  - file: bra-rok-auto-export-quality.pdf
+    title: South Korean Passenger Automobiles Surpassed Brazil's Autos in Export Quality Early into the 1970s
+    caption: "South Koreas's first foray into the distant foreign market may have been Guam (through Hyundai) but cracking the U.S. market soon set it apart from Brazil."
+    tags: Intro to IR
+
+  - file: bra-rok-auto-production-1950-2016.pdf
+    title: It Didn't Take That Long For South Korea's Motor Vehicle Production to Outpace Brazil
+    caption: "South Korea's model found an audience abroad, producing products for foreign consumption in contrast to Brazil's domestic focus."
+    tags: Intro to IR
+
+  - file: bra-rus-reer-default-crisis-1994-1999.pdf
+    title: Boris Yeltsin Went to Bed Drunk and Brazil Got the Hangover
+    caption: "Russia defaulted on its debt in 1998, which sent investors into a panic about Brazil's ability to maintain its crawling peg to the dollar."
+    tags: Intro to IR
+
+
+  - file: carbondioxide-emissions-all-time.pdf
+    title: Estimated Carbon Dioxide Emissions Through the History of the Planet, 800,000 BC to 2017
+    caption: "What's happening now is more than just a normal 'cycle.'"
+    tags: Intro to IR
+
+  - file: cdc-suicide-gender-age-breakdowns-1999-2016.pdf
+    title: Men Are More Likely to Commit Suicide Than Women, but Women Might Be Driving the Nationwide Rise in Suicides
+    caption: "The percentage change among some age groups for women are quite stark. For example, the suicide rate for 15-24 year-old women rose 80% from 1999 to 2016."
+    tags: Miscellany
+
+  - file: cell-subscriptions-1980-2016.pdf
+    title: More and More People Are Owning Cell Phones
+    caption: "Globalization has made cell phone ownership readily accessible, which has been a major boon to quality of life in Western countries."
+    tags: Intro to IR
+
+  - file: cell-subscriptions-1980-2016.pdf
+    title: Chlorofluorocarbon (CFC) Emissions Have (Generally) Fallen
+    caption: "This followed because costs were concentrated on a few countries, as were the proposed benefits."
+    tags: Intro to IR
+
+  - file: coffee-consumption-since-1990.pdf
+    title: The World is Drinking More and More Coffee
+    caption: "Coffee consumption is up over 70% since 1990 in these select countries (i.e. Europe + USA and Japan), suggesting demand for coffee is increasing in rich countries."
+    tags: Intro to IR
+
+  - file: excel-tercel-yugo-sales-data-1985-1992.pdf
+    title: The Yugo Was Easily Outsold by Similar Models from Asian Automakers and Bottomed Out the U.S. Market Quickly
+    caption: "Despite its competitive price, the Yugo was a junker from the start and became a punchline for car aficionados as well as development scholars critical of ISI."
+    tags: Intro to IR
+
+  - file: fdi-high-lowmid-income.pdf
+    title: FDI in Developing Countries Gets Our Attention but Most FDI is Between Rich Countries
+    caption: "FDI everywhere took a hit after the 2007 financial crisis for obvious reasons."
+    tags: Intro to IR
+
+  - file: financial-crisis-gdp-growth.pdf
+    title: The 2007 Financial Crisis Rocked GDP Growth in These Five Prominent Countries
+    caption: "These countries are only now digging themselves from the most severe effects of that crisis."
+    tags: Intro to IR
+
+  - file: gddpc-zambia-rok-1960-1975.pdf
+    title: GDP per Capita for Zambia (Rhodesia) and South Korea, 1960-1975
+    caption: "Zambia (Rhodesia) was much better endowed and had more growth potential in the 1960s."
+    tags: Intro to IR
+
+  - file: gddpc-zambia-rok-1960-2015.pdf
+    title: GDP per Capita for Zambia (Rhodesia) and South Korea, 1960-2016
+    caption: "South Korea's development far exceeded what we would've expected in the 1960s."
+    tags: Intro to IR
+
+  - file: gdp-forecasts-usa-chn.pdf
+    title: The OECD Forecasts China Will Surpass the U.S. in GDP in 2021
+    caption: "China's yearly growth in economic activity to date is far greater than the growth we observe in U.S. economic output."
+    tags: Intro to IR
+
+  - file: germany-interest-rates-1988-1992.pdf
+    title: (West) German Interest Rates Started to Rise as Talks of Reunificaiton Intensified
+    caption: "Reunification was a political boon but it ignited concerns about inflation following the sudden influx of money and capital into a reunified country."
+    tags: Intro to IR
+
+  - file: human-rights-improvement-fariss.pdf
+    title: Human Rights Records Have Actually Improved Over Time
+    caption: "Fariss argues that a ''changing standard of accountability'' can explain the difference between this graph and the conventional wisdom."
+    tags: Intro to IR
+
+  - file: human-rights-leaders-fariss.pdf
+    title: The World's Leaders in Human Rights Protections are in Europe or Clustered in Oceania
+    caption: "Fariss' model is 'dynamic' and builds on previous years and a myriad of measures, which may explain why some of these Oceanian countries rank high but have diffuse intervals."
+    tags: Intro to IR
+
+  - file: human-rights-stagnation-ciri.pdf
+    title: Conventional Wisdom Holds Human Rights Records Have Stagnated Over Time
+    caption: "CIRI data show no real improvement in human rights records despite concerted efforts from NGOs and IGOs."
+    tags: Intro to IR
+
+  - file: imf-voting-power.pdf
+    title: IMF Voting Rules Privilege the Wealthy States Over the Developing States
+    caption: "Voting power is weighted by economic size/openness/reserves in the IMF, which favor countries like the U.S. despite the majority of the world's population residing in poorer countries."
+    tags: Intro to IR
+
+  - file: income-inequality-labor-share-income-usa.pdf
+    title: The Correlation Between Income Inequality and Labor Share of Income Is Particularly Strong in the U.S. (r = -.702)
+    caption: "Labor share of income's decline is global and has multiple reasons but U.S. policy may be making its effects even worse."
+    tags: Intro to IR
+
+  - file: income-inequality-labor-share-income.pdf
+    title: Income Inequality Generally Rises in the West as Labor Share of Income Falls
+    caption: "Labor share of income happens for a variety of reasons but can have important political/economic effects."
+    tags: Intro to IR
+
+  - file: income-inequality-usa-ukg-fra-gmy-can.pdf
+    title: Globalization Skepticism Appears Most Concentrated in Western Countries With Severe Income Inequality
+    caption: "Globalization and trade become easy scapegoats to justify austerity measures and cuts to social spending that only compound the problem."
+    tags: Intro to IR
+
+  - file: issp-2016-partisanship-social-spending.pdf
+    title: Republican Politicians Seem to Wildly Overestimate How Popular Their Core Policies Are
+    caption: "Pluralities of Republicans actually want *more* social spending on health care and pensions. Almost a majority prefers not touching unemployment benefits either."
+    tags: Miscellany
+
+  - file: labor-share-income-1950-2014.pdf
+    title: "It's Not Just the United States: Labor Share of Income is Falling Everywhere"
+    caption: "The trend has been observable as long we have data with more pronounced slides happening in the 1980s."
+    tags: Intro to IR
+
+  - file: lat-america-vs-europe-growth-1960-1990.pdf
+    title: ISI's Failure Wasn't Total as Latin America Experienced Better GDP Growth Until the 1980s
+    caption: "We can qualify that Latin America had further to go but growth rates were real in the region, especially in the 1970s (even per capita)."
+    tags: Intro to IR
+
+  - file: lira-reer-devaluation-1992-1995.pdf
+    title: The Italian Lira's Slide Was Even More Pronounced (Than the Pound Sterling) in the 1992 ERM Crisis
+    caption: "The Lira lost about a third of its value in the three year window between 1992 and 1995."
+    tags: Intro to IR
+
+  - file: mean-temperature-anomalies-context.pdf
+    title: Annual Mean Temperature Anomalies (in Celsius) Relative to 1950-1980 Base Period (With Additional Context)
+    caption: "Thing is we've known about this for like the past 30 years and..."
+    tags: Intro to IR
+
+  - file: mean-temperature-anomalies.pdf
+    title: Annual Mean Temperature Anomalies (in Celsius) Relative to 1950-1980 Base Period
+    caption: "Thing is we've known about this for like the past 30 years and..."
+    tags: Intro to IR
+
+  - file: migrant-pop-usa-by-country.pdf
+    title: U.S. Migration is Mostly Regional and Mexico Accounts for Just Under a Quarter of It
+    caption: "Mexico, Puerto Rico, Canada, and Cuba combine for about 33% of the U.S.' mid-year migrant population in 2017."
+    tags: Intro to IR
+
+  - file: migrant-pop-usa.pdf
+    title: "About 15% of the U.S. Population was Born in Another Country"
+    caption: "The trend has accelerated around the time the 'Boomers' started to approach retirement age and as globalization increased after the Cold War."
+    tags: Intro to IR
+
+  - file: military-balance-usa-chn-2015.pdf
+    title: "China's Eventual ''Rise'' Still Comes Amid Major Military Disparity with the United States"
+    caption: "Generally: China beats U.S. on manpower and never quality or equipment. We expects these trends to persist even as China surpasses the U.S. in economic output."
+    tags: Intro to IR
+
+  - file: nra-favorability-ratings-pew-1994-2014.pdf
+    title: "A Mid-Nineties Lull Notwithstanding, Most Americans Think Favorably of the NRA"
+    caption: "Data coverage is spotty but favorability has held steady even in the wake of prominent mass shootings like Aurora and Newtown. Interpretations are multiple but these patterns would be consistent with partisan sorting that started in 1994 and accelerated in 2008."
+    tags: Miscellany
+
+  - file: nra-influence-gun-laws-pew-2000-2017.pdf
+    title: "Americans Used to Think the NRA Generally Had Too Much Influence on Gun Laws; Now They're Evenly Divided"
+    caption: "Partisan sorting and elite cues might capture this as, conceivably, more Republicans moved from the 'don't know' category to the 'right amount' category."
+    tags: Miscellany
+
+  - file: nuclear-proliferation-1945-2014.pdf
+    title: "Number of Nuclear Warheads in Inventory of Select ''Problem'' Countries, 1945-2014"
+    caption: "Non-proliferation measures haven't stopped some countries from pushing for and even expanding nuclear arsenals."
+    tags: Intro to IR
+
+  - file: nuke-inventories-1945-2014-no-usa-rus.pdf
+    title: "Number of Nuclear Warheads in Inventory of Nuclear Countries (Excluding the U.S. and Russia), 1945-2014"
+    caption: "Notice that declines in global nuclear inventory are effectively functions of de-nuclearization in the U.S. and Russia."
+    tags: Intro to IR
+
+  - file: oil-states-vs-south-carolina.pdf
+    title: "The Typical Economy and Quality of Life in These (Oil-Exporting) Countries Are Well Below Even South Carolina (the 10th Poorest State)"
+    caption: "The wealthiest per capita country in that list (Kuwait) would still be the poorest state in the U.S. by around 2,000 USD a head."
+    tags: Intro to IR
+
+  - file: opec-production-1972-2018.pdf
+    title: "OPEC is a Clear Example of a Commodity Cartel Changing the Terms on Which They Trade Goods"
+    caption: "OPEC's first success was doubling the price of oil in 1973 in response to the Yom Kippur War. Overall oil production was halved in the 10 years from 1973 to 1983."
+    tags: Intro to IR
+
+  - file: outbound-migrant-pop-usa-by-country.pdf
+    title: "Most U.S. Migration is Local or to Familiar/Friendly Countries"
+    caption: Generally, U.S. migration follows to places where FDI is abundant.
+    tags: Intro to IR
+
+  - file: ozone-depletion.pdf
+    title: "Ozone Depletion Constitutes a (Partial) Success on an Issue Notorious for Collective Action Problems"
+    caption: Overall, the ODGI-A/ODGI-ML and sum chlorines (in ppts) has fallen, as have several particular/conspicuous chlorines (e.g. CFC-11 and CFC-12) even as others (like halon and HCFC) have slightly risen.
+    tags: Intro to IR
+
+  - file: palestinian-terrorist-strategies-gtd-1970-2015.pdf
+    title: "Palestinian Terrorists Weren't Deterred by the Hague Convention. They Changed Strategies."
+    caption: Rational decisions are rational but need not solve strategic situations.
+    tags: Intro to IR
+
+  - file: postcolonial-development-by-colony.pdf
+    title: "Colonialism is a Partial Explanation for Stunted Development but it's a Real Legacy"
+    caption: GDP per capita of former colonial states drags well behind those that were previously colonial masters.
+    tags: Intro to IR
+
+  - file: presidential-approval-ratings-gallup-truman-trump.pdf
+    title: "Presidential Approval Ratings from Truman to Trump"
+    caption: The 'presidential life cycle' is discernible across almost all cases, with Clinton being the most curious exception. Trump's 'life cycle' may have yet to start.
+    tags: Miscellany
+
+  - file: price-of-coffee-arabica-robustas.pdf
+    title: "The World is Drinking More Coffee, but Coffee is Fetching Lower Prices in the Global Market"
+    caption: Coffee markets are far more competitive than the markets for the machinery necessary to mass produce coffee beans, which forms a kind of trade bias against LDCs.
+    tags: Intro to IR
+
+  - file: price-of-sugar-usa-europe-world-1980-2018.pdf
+    title: "Americans Pay More for Sugar Than the Rest of the World (Even Europe)"
+    caption: Again, this isn't a ''sweet tax.'' It's sugar protectionism policies dating to the Great Depression that make sugar more expensive in the U.S.
+    tags: Intro to IR 
+
+  - file: price-of-sugar-usa-world-1980-2018.pdf
+    title: "Americans Pay More for Sugar Than the Rest of the World"
+    caption: This isn't a ''sweet tax.'' Rather, the culprit is sugar protectionism policies dating to the Great Depression that make sugar trade above the price for international delivery.
+    tags: Intro to IR 
+
+  - file: proportional-stacked-area-graph-war-1816-2007.pdf
+    title: "Inter-State Wars Motivate Classic Studies in Our Discipline But They're Just a Subset of All Wars Over Time"
+    caption: The data also show that extra-state and non-state wars have disappeared over time and most wars are intra-state wars.
+    tags: Intro to IR, International Conflict
+
+  - file: resource-curse-illustration.pdf
+    title: "Less Developed Countries Tend to Be Better Endowed in Natural Resources"
+    caption: We call this the ''resource curse'' in the development literature.
+    tags: Intro to IR
+
+  - file: rsa-kuw-uae-production-1972-2018.pdf
+    title: "Saudi Arabia's Response to Widespread Cheating in the 1980s: Beat Everyone to the Floor"
+    caption: "Saudi Arabia has the largest oil reserves, a rather small population, and huge currency reserves.
+It can take a bloody nose for the cause of the cartel and beat anyone to the floor when it's concerned about market share."
+    tags: Intro to IR
+
+  - file: sea-level-change.pdf
+    title: "Global Average Absolute Sea Level Change, 1880 to 2015"
+    caption: Absolute sea level change refers to the height of the ocean surface regardless of whether nearby land is rising or falling.
+    tags: Intro to IR
+
+  - file: sulfure-dioxide.pdf
+    title: "Sulfur Dioxide Emissions in the U.S. Have Decreased 87% Since 1980"
+    caption: The U.S. has largely met the 75ppb line by 2010 in large measure because of the EPA and the concentrated costs acid rain pose on the populations of polluting countries.
+    tags: Intro to IR
+
+  - file: top-ten-oil-states.pdf
+    title: These Are the Ten Countries Whose Economies Are Most Indebted to Selling Oil Abroad (2015)
+    caption: "There are some conspicuous states in here, but: the median GDP per capita is 8,108 USD and the median GDP (87 billion USD) is half the GDP of South Carolina (the 10th poorest U.S. state)."
+    tags: Intro to IR
+
+  - file: trade-mids-1870-2010.pdf
+    title: "IR Scholars Generally See Trade as Conducive to Global Peace"
+    caption: "The argument is intuitive; interconnected states see conflict as too costly and an unnecessary disruption of commerce."
+    tags: Intro to IR, International Conflict
+
+  - file: uae-opec-production-quota-1982-2000.pdf
+    title: "Cartels Are Inherently Unstable. OPEC is No Different. And Everyone---like the United Arab Emirates---Cheats"
+    caption: "Some OPEC members (e.g. Indonesia) cheat less than others but everyone does it and it kinda defeats the purpose of the cartel."
+    tags: Intro to IR
+
+  - file: ukg-reer-1992-1993-black-wednesday.pdf
+    title: "'Black Wednesday' Triggered a Major Depreciation in the Value of the Pound Sterling"
+    caption: "All told, a FOIA request in 2005 revealed the total loss to be around £3.3 billion. The UK lost around £800 million in reserves in two weeks."
+    tags: Intro to IR
+
+  - file: unemployment-rate-financial-crisis.pdf
+    title: "Unemployment Spiked in These Five Countries as a Result of the 2007 Financial Crisis"
+    caption: "Unemployment is still conspicuously high in Greece and Spain."
+    tags: Intro to IR
+
+  - file: usa-can-mex-high-tech-esports-1990-2016.pdf
+    title: "The U.S. Exports About Three Times as Much in High-Technology Goods than Canada and Mexico"
+    caption: "This would square with casual observations that the U.S. is better endowed in capital than its NAFTA neighbors."
+
+  - file: usa-can-mex-human-rights-comparison-fariss.pdf
+    title: "Human Rights Protection Scores for the U.S., Canada, and Mexico, 1980-2015"
+    caption: "Notice the U.S. is not exactly a world leader in human rights protections despite demonstrations to the contrary."
+    tags: Intro to IR
+
+  - file: usa-can-mex-torture-allegations-comparison-itt.pdf
+    title: "The U.S. Experiences About Twice the Allegations of Ill-Treatment and Torture in a Given Year Compared to Its Neighbors"
+    caption: "Conrad and Moore's ITT data measure Amnesty International (AI) allegations arguing that torture is unobservable but AI allegations are reliable and valid, even for comparing the U.S. to Mexico here."
+    tags: Intro to IR
+
+  - file: usa-chn-exchange-rate-1980-2018.pdf
+    title: "China's Currency Tango With the U.S. Is Even More Pronounced in the 1990s"
+    caption: "China pegged the RMB to the dollar at 8.28 in 1994 and held that peg until July 2005."
+    tags: Intro to IR
+
+  - file: usa-chn-human-rights-comparison-fariss.pdf
+    title: "Human Rights Protection Scores for the U.S. and China, 1949-2015"
+    caption: "We oberve a clear contrast between the two starting in 1965 but observe the United States' downward trend."
+
+  - file: usa-chn-reer-1980-2016.pdf
+    title: "The Real Effective Exchange Rates for the Chinese Renmibi and the U.S. Dollar (1980-2016)"
+    caption: "China's currency depreciation strategy was obvious in the 1980s but is less evident now."
+    tags: Intro to IR
+
+  - file: usa-drunk-driving-terror-suicide-data-1970-2015.pdf
+    title: "Casualties in the United States from Terrorism, Suicide, and Drunk-driving, 1970-2015"
+    caption: "Drunk-driving and suicide are more deadly public bads but don't command public attention like terrorism."
+    tags: Intro to IR
+
+  - file: usa-euro-exchange-rate-1999-2018-fed.pdf
+    title: "The Euro is Usually Worth More Than the Dollar"
+    caption: "A dollar and 15 cents bought one Euro to open 1999 and, despite obvious fluctuation, that's about the exchange rate now."
+    tags: Intro to IR
+
+  - file: usa-exports-2016.pdf
+    title: "The U.S. Exported About $2.2 Trillion USD in Goods and Services in 2016"
+    caption: "Capital goods (e.g. commercial aircraft [$121 billion], industrial machines [$51 billion], semiconductors [$44 billion], and telecommunications [$41 billion]) lead the way among all export types."
+    tags: Intro to IR
+
+  - file: usa-household-computers-1984-2015.pdf
+    title: "Almost Every Household Has a Computer These Days, Thanks to Globalization"
+    caption: "Household computers used to be a luxury item before parts could be cheaply made/imported from Asia. In fact, the old Apple Macintosh from 1984 cost more than $6,000 in 2017 USD."
+    tags: Intro to IR
+
+  - file: usa-human-rights-ranking-fariss.pdf
+    title: "Where Does the U.S. Rank on Human Rights? Below Average."
+    caption: "The U.S. is a tricky country to measure for human rights abuses for a myriad of reasons. It does well in some areas and deceptively terrible in others and Amnesty International, aggressively monitor the U.S."
+    tags: Intro to IR
+
+  - file: usa-labor-share-income-1987-2018.pdf
+    title: "Labor Share of Income in Manufacturing Has Gone Down"
+    caption: "Those gains in real compensation have largely been going to the top."
+    tags: Intro to IR
+
+  - file: usa-manufacturing-employment-1987-2018.pdf
+    title: "U.S. Manufacturing Employment Has Declined as Globalization Has Increased"
+    caption: "You'll almost always hear of this as ''jobs leaving the country'' because of globalization."
+    tags: Intro to IR
+
+  - file: usa-manufacturing-output-1987-2018.pdf
+    title: "U.S. Manufacturing Output Has Generally Risen Despite the Drop in Manufacturing Employment"
+    caption: "Automation explains more of this phenomenon than globalization, but globalization gets the blame."
+
+  - file: usa-mex-exchange-rate-1993-2018-fed.pdf
+    title: "The Dollar Has Always Been Strong to the Mexican Peso"
+    caption: "Mexico dropped its previous peg (i.e. three new pesos to one USD) in 1995, which you can see in the first few years of the data."
+    tags: Intro to IR
+
+  - file: usa-modal-age-by-raceethnic.pdf
+    title: "The Modal (i.e. Most Common) Age for a White Person in the U.S. is 56. For Hispanics: 9."
+    caption: "Only about a third of all Hispanics are foreign born but they comprise a large chunk of the low-skilled labor population."
+    tags: Intro to IR
+
+  - file: usa-price-index-tech-goods-1997-2015.pdf
+    title: "The Price Index For Computers and TVs Has Declined More Than 95% Since December 1997"
+    caption: "Most of the decline happened between 1998 and 2003 following a boom in cheaper parts and products coming from trading partners in Asia."
+    tags: Intro to IR
+
+  - file: usa-raceethnic-by-generation.pdf
+    title: "(Non-Hispanic) White People Are Around 62% of the U.S. Population But They're Getting Older"
+    caption: "Meanwhile, more than a majority of African-Americans and Hispanics are Millennials or younger."
+    tags: Intro to IR
+
+  - file: usa-rok-trade-balance-1949-2017.pdf
+    title: "The Boom in Cheap Household Computers Followed a Surge of Imports from South Korea (Among Others)"
+    caption: "South Korea specializes in cheaply producing high-quality consumer electronics for consumption in the U.S."
+    tags: Intro to IR
+
+  - file: usa-skyjacking-data-1942-2016.pdf
+    title: "The Number of International Skyjackings, 1942-2016"
+    caption: "Skyjackings were once a favorite tool of terror groups with a peak of 86 incidents in 1969."
+    tags: Intro to IR
+
+  - file: usa-terror-casualties-1970-2015.pdf
+    title: "There Are a Little More Than Two Dozen (Median: 28) Casualties Each Year in Terror Incidents in the United States"
+    caption: "There are obvious peaks with the deadliest year on record being, clearly, 2001."
+    tags: Intro to IR
+
+  - file: usa-terror-incidents-1970-2015.pdf
+    title: "There's a Median of 40 Terror Incidents in a Given Year in the United States"
+    caption: "The peak for terror incidents in the data is the first year (1970), with a reported 468 incidents. These were mostly perpetrated by left-wing radicals with prominent groups like the Weathermen."
+    tags: Intro to IR
+
+  - file: usa-torture-allegations-by-actor-type.pdf
+    title: "Allegations of Ill-Treatment and Torture in the U.S. Used to Focus on Police and Prisons. Now They Focus on the Military."
+    caption: "Allegations of torture by the police bottomed out to near zero in the 2000s but accusations against the military, nearly non-existent in the 1990s, became 3/4ths of all allegations after 9/11."
+    tags: Intro to IR
+
+  - file: usa-trade-gdp-1790-2016.pdf
+    title: "The Volume of Trade as Percentage of GDP in the United States, 1790-2016"
+    caption: "Trade's importance to the U.S. economy has major variation over time, especially early into the country's independence from Great Britain."
+    tags: Intro to IR
+
+  - file: usa-trade-gdp-1960-2016.pdf
+    title: "Trade as a Percentage of U.S. GDP, 1960-2016"
+    caption: "Trade has become an increasingly large part of the U.S. economy since the 1960s."
+    tags: Intro to IR
+
+  - file: vanishing-sea-ice.pdf
+    title: "The Arctic Sea Ice is Rapidly Vanishing in Our Lifetime"
+    caption: "The Arctic shows no sign of returning to the reliably frozen region of recent past decades."
+    tags: Intro to IR
+
+  - file: very-stupid-graph.pdf
+    title: "A Very Stupid Graph on How Global Temperatures Have Changed Over Time, 1880-2016"
+    caption: "You can easily ''lie'' with data by misrepresenting scale and, importantly, context."
+    tags: Intro to IR
+
+  - file: western-europe-gdp-1950-1980.pdf
+    title: "(West) Germany Was the Biggest Economy in Western Europe Leading to the 1979 European Exchange Rate Mechanism"
+    caption: "West Germany surpassed the UK as the biggest economy in Europe in 1953 despite its division and occupation by four different countries."
+    tags: Intro to IR
+
+  - file: western-europe-gdp-1950-1980.pdf
+    title: "(West) Germany Was Also the Biggest Trading Partner in Europe"
+    caption: "West Germany's rather quick emergence as the focal point of commerce in post-war Europe underlined calls for exchange rate stability."
+    tags: Intro to IR
+
+  - file: what-explains-declining-share-of-income-imf.pdf
+    title: "What Explains Declining Share of Income in Advanced Economies? Technology."
+    caption: "An IMF report from April 2017 found most  of the movement is explained by declining relative price of investment and initial exposure to routinization across sectors."
+    tags: Intro to IR
+
+  - file: where-do-usa-clothes-come-from.pdf
+    title: "Where Do Your Clothes Come From?"
+    caption: "Textile/clothing imports in the U.S. come from countries with large, low-skilled labor populations. This is consistent with Heckscher-Ohlin theory."
+    tags: Intro to IR
+
+  - file: white-americans-civil-rights-too-fast-anes-1964-1992.pdf
+    title: "White Americans Thought Civil Rights Leaders Were Pushing 'Too Fast' at the Height of the Civil Rights Movement"
+    caption: "''Do you think that civil rights leaders are trying to push too fast, are going too slowly, or are they moving about the right speed?''"
+    tags: Miscellany
+
+  - file: wti-crude-price-1947-2018.pdf
+    title: "Average Crude Oil Price, 1947-2018"
+    caption: "We observe prominent spikes that coincide with the Arab oil embargo, Iran-Iraq War onset, and the worst consequences of the Iraq War and corollary financial crisis."
+    tags: Intro to IR
+
+  - file: wvs-swiid-income-inequality-scapegoating-immigrants.pdf
+    title: "Higher Income Inequality Coincides With Societies Scapegoating Immigrants As Part of the Problem"
+    caption: "Less-developed countries are generally more anti-immigrant but the correlation is near identical in more developed economies."
+    tags: Intro to IR
+
+  - file: american-public-support-conflict-casualties.pdf
+    title: "The American Public's Support for Conflict Generally Wanes as American Casualties Mount"
+    caption: "'Support' is variously defined, contingent on the particular survey question, so the trends should be read as more illustrative."
+    tags: Intro to IR
+
+  - file: firearm-related-deaths-gun-ownership-rates.pdf
+    title: "Total Firearm-Related Deaths and Gun Ownership Rates in 27 Countries"
+    caption: "South Africa is a noteworthy outlier and any effort to map a simple bivariate relationship is an exercise a drawing a line to fit the United States."
+    tags: Miscellany
