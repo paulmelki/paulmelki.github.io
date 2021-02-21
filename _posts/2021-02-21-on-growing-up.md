@@ -13,6 +13,7 @@ layout: post
 categories:
   - Life
   - Thoughts
+image: "/images/there-revisited-gaius31duke.jpg"
 ---
 
 {% include image.html url="/images/there-revisited-gaius31duke.jpg" caption="Painting by Gaius31Duke on DeviantArt" width=375 align="left" %}
