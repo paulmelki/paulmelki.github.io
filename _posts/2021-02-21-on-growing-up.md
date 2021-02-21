@@ -30,7 +30,7 @@ It is the point at which you feel like a warrior, who has been practicing since
 childhood with wooden swords and shields, with "enemies" who never really
 wanted to hurt you. Yes, you may have had some broken bones here and there; 
 yes, you may have fallen down many times and arisen again; yes, you have 
-always thought what pain is... 
+always thought you knew what pain is... 
 
 Then.. hop! The battle has come.
 
