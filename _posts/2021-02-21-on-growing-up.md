@@ -40,7 +40,7 @@ nothing like what I've seen before!" And you know what your first impulse is
 going to be? You know what is the first idea your mind will throw at you? No
 matter how hard you have trained, no matter how many times you thought you have
 fought before, no matter how "Spartan" you think you are... the first impulse
-you will get will always be: "RUN!" Run away! Raun for your life! Escape! 
+you will get will always be: "RUN!" Run away! Run for your life! Escape! 
 Go back home! Go back to a place of comfort and ease and irresponsability! 
 
 And it is all in this short couple of seconds before the crash with the enemy. 
