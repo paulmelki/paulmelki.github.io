@@ -25,7 +25,7 @@ and graduated *Summa Cum Laude* with highest distinction among the CS graduates.
 On a less professional side, I'm an avid reader, mainly of classical literature (but of almost everything too...) and you will
 find much of my book reviews here and on my [Goodreads account](https://www.goodreads.com/paulmelki) too. I'm also a big fan of classical arts:
 primarly classical music, but also painting and architecture too ; and you may find some ramblings I write on these topics on this blog
-too (don't take them too seriously...). I love coding (obviously), and photography too, and (most importantly), being surrounded by mountains and
+too (don't take them too seriously...). I love coding (obviously), and photography too (you can access some of my work on [Unsplash](https://unsplash.com/@paulmelki)), and most importantly, being surrounded by mountains and
 trees and big skies. But well, enough talking... You will get to know me more, the more you go through this website. 
 
 > "I wish I could show you when you are lonely or in darkness the astonishing light of your own being."
