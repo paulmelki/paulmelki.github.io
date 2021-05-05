@@ -12,10 +12,10 @@ I'm just a guy who likes to find solutions to complicated problems, by making ev
 until a simple solution is all that is left to do. Not sure how good this strategy is.
 
 I'm currently a Master 2 student in Statistics & Econometrics at [Toulouse School of Economics](https://www.tse-fr.eu/) 
-where I focus my studies on machine & deep learning, and spatial analysis. I'm also an incoming research intern with 
+where I focus my studies on machine & deep learning, and spatial analysis. I'm also currently a research intern with 
 [Team MOTIVE at the IMS Laboratory](https://www.ims-bordeaux.fr/en/recherche/research/116-signal-and-image-processing/motive/184-MOTIVE)
-at [Université de Bordeaux](https://www.u-bordeaux.fr/). My research will be centered around building robust ensemble methods for convolutional
-neural networks used in the detection of plant diseases. Quite interesting! No? Well, maybe not for everyone...
+at [Université de Bordeaux](https://www.u-bordeaux.fr/). My research is centered around building robust ensemble methods for convolutional
+neural networks used in image segmentation and object detection. Quite interesting! No? Well, maybe not for everyone...
 
 Previous to my arrival in France, I pursued a Bachelor of Science in Computer Science (Software Engineering) at the 
 [University of Balamand](http://www.balamand.edu.lb/home/Pages/default.aspx) in my home country, Lebanon. I also pursued 
