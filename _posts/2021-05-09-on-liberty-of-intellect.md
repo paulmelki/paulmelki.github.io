@@ -9,7 +9,7 @@ knit: (function(inputFile, encoding) {
    rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 author: "Paul"
 date: '2021-05-09'
-excerpt: "On freedom of liberty."
+excerpt: "From freedom to liberty."
 layout: post
 categories:
   - Life
