@@ -1,6 +1,6 @@
 ---
 title: "On Liberty of the Intellect"
-subtitle: "Thoughts After Reading Virginia Woolf"
+subtitle: "Thoughts after reading Virginia Woolf"
 output:
   md_document:
     variant: gfm
