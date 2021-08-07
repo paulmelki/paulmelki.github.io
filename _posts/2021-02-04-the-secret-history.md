@@ -15,9 +15,7 @@ categories:
 image: the_secret_history_cover.jpg
 ---
 
-
-
-
+*Toulouse, France*
 
 {% include image.html url="/images/the_secret_history_cover.jpg" width=375 align="right" %}
 

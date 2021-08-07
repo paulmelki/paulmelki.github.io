@@ -16,6 +16,8 @@ categories:
 image: "/images/there-revisited-gaius31duke.jpg"
 ---
 
+*Bordeaux, France*
+
 {% include image.html url="/images/nader-abushhab-uZIaeo2cfio-unsplash.jpg" caption="Photo by Nader Abushhab on Unsplash" width=400 align="right" %}
 
 Deeply rooted in my beliefs is that we are *all* created on the image of God, we *all* hold a spark of divinity inside of us, and each person is eternal and unfathomably precious. Each and every person. It is a belief that goes beyond the social and moral obligations it imposes: it pertains to the nature of Humanity itself. 

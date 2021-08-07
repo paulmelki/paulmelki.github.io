@@ -14,6 +14,8 @@ categories:
   - Book Reviews
 ---
 
+*Toulouse, France*
+
 {% include image.html url="/images/to_the_lighthouse_cover.jpg" width=375 align="right" %}
 
 Honestly, what a masterpiece! What a work of art!

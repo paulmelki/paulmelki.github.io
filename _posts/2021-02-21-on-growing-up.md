@@ -18,9 +18,11 @@ image: "/images/there-revisited-gaius31duke.jpg"
 
 {% include image.html url="/images/there-revisited-gaius31duke.jpg" caption="Painting by Gaius31Duke on DeviantArt" width=375 align="left" %}
 
+*Toulouse, France*
+
 There comes a point in each person's life, I guess, at which they realize that 
 they are changing internally, on a deep level. A point at which they feel they 
-have to take decisions of their own and carry responsabilities they didn't have
+have to take decisions of their own and carry responsibilities they didn't have
 to carry previously. This inflection point occurs at different times for 
 different people, that's for sure. And it may occur in stages, and not all at 
 once, if we are lucky. I'm rather unsure how to describe this inflection point,
@@ -41,7 +43,7 @@ going to be? You know what is the first idea your mind will throw at you? No
 matter how hard you have trained, no matter how many times you thought you have
 fought before, no matter how "Spartan" you think you are... the first impulse
 you will get will always be: "RUN!" Run away! Run for your life! Escape! 
-Go back home! Go back to a place of comfort and ease and irresponsability! 
+Go back home! Go back to a place of comfort and ease and irresponsibility! 
 
 And it is all in this short couple of seconds before the crash with the enemy. 
 Your whole being is telling you to escape... to hide, to ignore the upcoming

@@ -15,6 +15,7 @@ categories:
   - Thoughts
 ---
 
+*Bordeaux, France*
 
 One of the hardest decisions to come to in one's life is the decision to walk towards "the good". To take it upon oneself to become a better person, to leave the internal and external shackles that are preventing one from advancing towards betterment. It is already hard for us humans to set a goal, much harder even still when this goal is sublime and transcendent, a higher goal. And the echo of this truth is clearly articulated in religions, psychology, history, arts and literature. The idea of the struggle towards a goal; everyone seems to agree on its difficulty. And why, we may wonder? Why is something that is supposed to give so much meaning and enrichment to one's life, is also the hardest thing to pursue? And being so, why do many people not do it? 
 

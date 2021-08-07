@@ -17,6 +17,8 @@ categories:
   - Book Reviews
 ---
 
+*Bordeaux, France*
+
 {% include image.html url="/images/Liberty_VirginiaWoolf.jpeg" width=300 align="right" %}
 
 From this small book, one may derive plenty of wisdom and lessons, and definitely a lifetime of discussions. For it is a book that discusses *Liberty*. *Liberty*, an idea, a vision, a creature, that has lived and evolved, changed and mutated  in the course of history, in the extent of space and culture. *Liberty*, that mythical goddess that has been discussed and sung, painted and sculpted, and most strikingly maybe, died for by many. *Liberty*, a concept which encompasses thousands of other ideas beneath it, and thousands of thousands of interpretations. 
