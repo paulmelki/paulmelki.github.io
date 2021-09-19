@@ -17,6 +17,13 @@ categories:
 
 *Bordeaux, France*
 
+*In this essay, I discuss and comment on one my recent readings: a transcription of a lecture given by Prof. Richard Hamming in 1986, entitled "You and Your Research". I encourage you to give it a read as it is enriching and freely available in PDF form [here](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf).*
+
+
+---
+
+&nbsp;
+
 In this lecture, Professor Hamming discusses the right "style" for dealing with research and going about conducting research work that will have a lasting constructive impact on the world. Not only so, but he also proposes that this "style" is also a valid way of tackling other types of job, and more generally really, life itself. Anyone who has studied a fair amount of computer science should have come across [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) at least once, being one of the fathers of Coding Theory and the inventor of a multitude of algorithms, such as *Hamming's Code* for error detection, without which many current scientific and engineering exploits, including the Internet itself, would not have existed, or at least not in their current form. When someone of the grade and level of Richard Hamming is sharing his approach to dealing with research, we should indeed have an interest in considering  his words with full seriousness; given, of course, that we are harvesting the required humility, without which we cannot lead a "healthy" and flourishing scientific career (nor a life, in all of its aspects). In this essay, I try then to extract and present the main pillars of Hamming's proposed "style".
 
 
@@ -38,7 +45,7 @@ Hamming begins his description of the right "style" by exposing the importance o
 ### **On Working on Important Problems**
 Prof. Hamming pursues his lecture by encouraging the listener (or reader) towards being sober, awake, and vigilant to what is happening around us in the world; whereby we should identify the most important problems in our field of study and work on them, or at least, try to think about them deeply. Here, Hamming invokes the episode in his life when he stopped sitting at the "Physics" table at lunch, because physicists started to care more about fame, recognition and promotion, rather than fundamental research. He instead switched to the chemists' table, without much success either. Upon asking, there, "[i]f what you are working on is not important and not likely to lead to important things, when why are you working on it?", he became unwelcome at that table anymore. Only after some months, did one of the chemists contact Hamming and thank him, because his question has made him think, and re-think, deeply his work (and only one!, reminding us of the story of Jesus and the Ten Lepers, in which Jesus healed them of their wicked disease but only one of them came back and thanked Him). And shouldn't we stop every once in a while and ask ourselves this question? We are more likely to dismiss this question and the part of us that dares to ask it, just like the chemists did with Hamming, because we're afraid of the answer. We're afraid to realise that "maybe" what we're working on is not the most important problem we can be tackling, and a change of track is needed. However, there is certainly a realistic limit to such scepticism against one's efforts: 
 
-### **On Attacking to Which There May Exist a Solution**
+### **On Attacking Problems to Which There May Exist Solutions**
 Now, Hamming (or our internal judge) is not trying to destroy the faith and confidence we have in the work we are tackling. Because, there will surely always exist some problems in our field of research and study which are more crucial, more fundamental, more "important" than the ones we are dealing with. However, *"a problem is important partly because there is a possible attack on it and not just because of its inherent importance"*. A balanced judgment between a problem's importance and the possibility of approaching it is likely to guide us on the right path of attempting the problems that are crucial but also manageable, which may in turn open doors to progress on other, possibly more important, problems have been previously been regarded as unattainable. 
 
 
