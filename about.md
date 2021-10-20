@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 {% include image.html url="/images/blog_picture_pyrenees.jpeg" width=350 align="right" caption="Picture of me where I belong." %}
