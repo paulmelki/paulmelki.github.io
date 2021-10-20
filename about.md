@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/blog_picture_pyrénées.jpeg" width=350 align="right" caption="Picture of me where I belong." %}
+{% include image.html url="/images/blog_picture_pyrenees.jpeg" width=350 align="right" caption="Picture of me where I belong." %}
 
 Hello, fellow wanderer of the world and welcome to my blog! 
 
