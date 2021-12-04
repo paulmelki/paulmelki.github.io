@@ -10,12 +10,12 @@ Hello, fellow wanderer of the world and welcome to my blog!
 
 Let me start by introducing myself, and hopefully you will too! 
 
-I'm Paul Melki, as you may have noticed by now, and I'm a Lebanese researcher in **Statistical Learning** and **Computer Vision** residing in France. I'm currently a PhD candidate conducting my industrial research jointly with
+I'm Paul Melki, as you may have noticed by now, and I'm a Lebanese researcher in Statistical Learning and Machine Perception residing in France. I'm currently a PhD candidate conducting my industrial research jointly with
 [Team MOTIVE at the IMS Laboratory](https://www.ims-bordeaux.fr/en/recherche/research/116-signal-and-image-processing/motive/184-MOTIVE)
 at [Université de Bordeaux](https://www.u-bordeaux.fr/) and [EXXACT Robotics](https://exxact-robotics.com/en/), a fast-growing dynamic agri-tech startup based in Champagne.
 
 I arrived to France to pursue my Master's degree in Statistics & Econometrics at [Toulouse School of Economics](https://www.tse-fr.eu/) (Université Toulouse 1 Capitole & 
-Université Toulouse 3 Paul Sabatier) where I concentrated my studies on **machine & deep learning**, and **statistical spatial analysis**, and have recently graduated *Cum Laude* (With Distinction).
+Université Toulouse 3 Paul Sabatier) where I concentrated my studies on machine & deep learning, and statistical spatial analysis, and have recently graduated *Cum Laude* (With Distinction).
 
 Previous to my arrival in France, I pursued a Bachelor of Science in Computer Science (Software Engineering) at the 
 [University of Balamand](http://www.balamand.edu.lb/home/Pages/default.aspx) in my home country, Lebanon. I also pursued 

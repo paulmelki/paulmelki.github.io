@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { 
     font-size: 40;
-    font-family: "Open Sans";
+    font-family: 'EB Garamond', "Open Sans";
 }
 
 
@@ -121,7 +121,7 @@ blockquote {
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
-    // font-style: italic;
+    // font-style: italic; 
 
     > :last-child {
         margin-bottom: 0;

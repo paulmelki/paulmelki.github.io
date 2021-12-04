@@ -184,8 +184,8 @@ h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-    font-family: 'Staatliches', sans-serif;
-    font-weight: 500;
+    font-family: 'EB Garamond', sans-serif;
+    font-weight: 600;
     color: "black";
 
     @include media-query($on-laptop) {
@@ -201,9 +201,11 @@ h2 /* post-subtitle */ {
 
 .post-content {
     margin-bottom: $spacing-unit;
+    font-size: 1.2em;
+    font-weight: 400;
 
     h2 {
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'EB Garamond', 'Open Sans', sans-serif;
 	    font-weight: 500;
 /*      font-size: 32px; */
 
@@ -314,7 +316,7 @@ ul#archive li span.postlower {
 ul#archive li span.postlower a {
 	color: #07c;
 	font-weight: normal;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'EB Garamond', "Open Sans", Helvetica, Arial, sans-serif;
 
 }
 
