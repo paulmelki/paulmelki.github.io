@@ -10,7 +10,7 @@ Hello, fellow wanderer of the world and welcome to my blog!
 
 Let me start by introducing myself, and hopefully you will too! 
 
-I'm Paul Melki, as you may have noticed by now, and I'm a Lebanese researcher in Statistical Learning and Machine Perception residing in France. I'm currently a PhD candidate conducting my industrial research jointly with
+I'm Paul Melki, as you may have noticed by now, and I'm a Lebanese researcher in Machine Learning and Machine Perception residing in France. I'm currently a PhD candidate conducting my industrial research jointly with
 [Team MOTIVE at the IMS Laboratory](https://www.ims-bordeaux.fr/en/recherche/research/116-signal-and-image-processing/motive/184-MOTIVE)
 at [Université de Bordeaux](https://www.u-bordeaux.fr/) and [EXXACT Robotics](https://exxact-robotics.com/en/), a fast-growing dynamic agri-tech startup based in Champagne.
 
