@@ -8,7 +8,7 @@ knit: (function(inputFile, encoding) {
    rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 author: "Paul"
 date: '2022-01-09'
-excerpt: "History as a realisation of stochastic process."
+excerpt: "History as a realisation of a stochastic process."
 layout: post
 categories:
   - Thoughts
