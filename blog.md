@@ -6,10 +6,7 @@ permalink: /blog/
 
 On this page you may find all my thoughts and ramblings about life in general
 and more particularly reviews of the books I read, some quotes or poems I find 
-to be extremely beautiful, or some commentaries about our existence. 
-
-**Note:** *No alcohol was consumed before or during the writing of these pieces, though it 
-may look otherwise.*
+to be extremely beautiful, or some commentaries about our existence.
 
 In addition, you may also find some technical posts about programming, 
 machine learning, computer vision, statistics, or other technical stuff I do and 
