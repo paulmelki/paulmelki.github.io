@@ -110,6 +110,7 @@ If you read any of these books and wish to discuss them, feel free to contact me
 - ***Our Thoughts Determine Our Lives*** by Elder Thaddeus of Vitovnika
 
 ## *Theology & Philosophy*
+- ***Address to Young Men on the Right Use of Greek Literature*** by Saint Basil the Great
 - ***Nihilism: The Root of the Revolution of the Modern Age*** by Father Seraphim Rose
 
 ## *Contemporary Accounts*
