@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suggested Reads
-permalink: /suggestedreads
+permalink: /suggestedreads/
 ---
 
 In case you're looking for a novel to enjoy with a nice cup of tea, book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books and essays that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are surely many important books which deserve to be here but aren't, because I haven't read them yet.
