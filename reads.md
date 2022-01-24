@@ -100,9 +100,20 @@ If you read any of these books and wish to discuss them, feel free to contact me
 
 # Theology & Spiritual Life
 
-- ***I Know a Man in Christ*** by Metropolitan Hierotheos Vlachos
+## *Patristics*
+- ***No One Can Harm the Man Who Does Not Harm Himself*** by Saint John Chrysostom 
+
+## *Spiritual Life*
 - ***God's Revelation to the Human Heart*** by Father Seraphim Rose
-- ***Father Seraphim Rose: His Life and Works*** by Hieromonk Damascene Christensen
 - ***For the Life of the World*** by Father Alexander Schmemann  
 - ***Our Thoughts Determine Our Lives*** by Elder Thaddeus of Vitovnika
+
+## *Theology & Philosophy*
+- ***Nihilism: The Root of the Revolution of the Modern Age*** by Father Seraphim Rose
+
+## *Contemporary Accounts*
+- ***I Know a Man in Christ*** by Metropolitan Hierotheos Vlachos
+- ***Father Seraphim Rose: His Life and Works*** by Hieromonk Damascene Christensen
 - ***A Night in the Desert of the Holy Mountain*** by Metropolitan Hierotheos Vlachos
+- ***The Mountain of Silence: A Search for Orthodox Spirituality*** by Kyriacos C. Markides
+- ***Elder Porphyrios: Testimonies and Experiences*** by Klitos Joannidis
