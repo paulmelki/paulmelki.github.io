@@ -4,7 +4,7 @@ title: Suggested Reads
 permalink: /suggestedreads
 ---
 
-In case you're looking for a novel to enjoy with a nice cup of tea, book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here some of the books that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are surely many important books which deserve to be here but aren't, because I haven't read them yet.
+In case you're looking for a novel to enjoy with a nice cup of tea, book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are surely many important books which deserve to be here but aren't, because I haven't read them yet.
 
 If you read any of these books and wish to discuss them, feel free to contact me, we'll surely have a great conversation! :) 
 
