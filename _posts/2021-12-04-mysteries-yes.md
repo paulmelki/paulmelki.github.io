@@ -17,6 +17,9 @@ categories:
   - Life 
 ---
 
+<style>body {text-align: justify}</style>
+  
+
 *Bordeaux, France*
 
 *I would like to share with you a little beautiful poem entitled "Mysteries, Yes" by the American poet Mary Oliver, and some thoughts about this gorgeous piece.* 

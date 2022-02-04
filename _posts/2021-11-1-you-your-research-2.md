@@ -16,6 +16,8 @@ categories:
   - Thoughts
   - Life 
 ---
+<style>body {text-align: justify}</style>
+
 
 *Bordeaux, France*
 

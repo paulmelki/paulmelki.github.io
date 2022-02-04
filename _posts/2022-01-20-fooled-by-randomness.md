@@ -14,6 +14,8 @@ categories:
   - Book Reviews
   - Philosophy
 ---
+<style>body {text-align: justify}</style>
+
 
 {% include image.html url="/images/fooled_by_randomness.jpg" width=300 align="right" %}
 

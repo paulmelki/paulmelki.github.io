@@ -16,6 +16,10 @@ categories:
   - Philosophy
 ---
 
+<style>body {text-align: justify}</style>
+
+
+
 *Al-Koura, Lebanon*
 
 &nbsp;

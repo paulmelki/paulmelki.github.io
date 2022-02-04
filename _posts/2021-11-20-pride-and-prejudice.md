@@ -17,6 +17,8 @@ categories:
   - Life 
 ---
 
+<style>body {text-align: justify}</style>
+
 *Bordeaux, France*
 
 {% include image.html url="/images/pride_and_prejudice0.png" caption="Innocence" width=800 align="center" %}  
