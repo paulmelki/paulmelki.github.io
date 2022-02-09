@@ -13,44 +13,48 @@ If you read any of these books and wish to discuss them, feel free to contact me
 # Literature
 
 ## *Classics* 
-- ***Crime and Punishment*** by Fyodor Dostoyevsky
-- ***The Brothers Karamazov*** by Fyodor Dostoyevsky
-- ***The Idiot*** by Fyodor Dostoyevsky
-- ***Jane Eyre*** by Charlotte Brontë
-- ***Wuthering Heights*** by Emily Brontë
-- ***Middlemarch*** by George Eliot 
-- ***Pride and Prejudice*** by Jane Austen 
-- ***A Room with a View*** by E.M. Forster
-- ***The Seagull*** by Anton Chekhov
-- ***Germinal*** by Emile Zola
-- ***How Much Land Does a Man Need?*** by Leo Tolstoy
+- Dostoyevsky, Fyodor, ***Crime and Punishment***
+- Dostoyevsky, Fyodor, ***The Brothers Karamazov***
+- Dostoyevsky, Fyodor, ***The Idiot***
+- Tolstoy, Leo, ***How Much Land Does a Man Need?***
+- Brontë, Charlotte, ***Jane Eyre***
+- Brontë, Emily, ***Wuthering Heights***
+- Eliot, George, ***Middlemarch***
+- Austen, Jane, ***Pride and Prejudice***
+- Forster, E.M., ***A Room with a View***
+- Chekhov, Anton, ***The Seagull***
+- Zola, Emile, ***Germinal***
+- Balzac, Honoré (de), ***Eugénie Grandet***
+- Thoreau, Henry David, ***Walden***
+- Douglass, Frederik, ***Narrative of the Life of Frederik Douglass***
 
 ## *Modern Classics*
-- ***To the Lighthouse*** by Virginia Woolf
-- ***The Waves*** by Virginia Woolf
-- ***To Kill a Mockingbird*** by Harper Lee
-- ***1984*** by George Orwell
-- ***Animal Farm*** by George Orwell
-- ***One Day in the Life of Ivan Denisovich*** by Aleksandr Solzhenitsyn 
-- ***Stoner*** by John Williams
+- Woolf, Virginia, ***To the Lighthouse***
+- Woolf, Virginia, ***The Waves***
+- Lee, Harper, ***To Kill a Mockingbird***
+- Orwell, George, ***1984***
+- Orwell, George, ***Animal Farm***
+- Solzhenitsyn, Aleksandr, ***One Day in the Life of Ivan Denisovich***
+- Williams, John, ***Stoner***
+- Bradbury, Ray, ***Fahrenheit 451***
 
 ## *Contemporary*
-- ***Les hirondelles de Kaboul*** (Swallows of Kabul) by Yasmina Khadra
-- ***The Secret History*** by Donna Tartt
-- ***Samarcande*** (Samarkand) by Amin Maalouf
-- ***The Perks of Being a Wallflower*** by Stephen Chbosky
-- ***The Kite Runner*** by Khaled Hosseini
-- ***A Thousand Splendid Suns*** by Khaled Hosseini
-- ***All the Light We Cannot See*** by Anthony Doerr 
+- Yasmina Khadra, ***Les hirondelles de Kaboul*** *(Swallows of Kabul)*
+- Tartt, Donna, ***The Secret History***
+- Hosseini, Khaled, ***The Kite Runner***
+- Hosseini, Khaled, ***A Thousand Splendid Suns***
+- Chbosky, Stephen, ***The Perks of Being a Wallflower***
+- Doerr, Anthony, ***All the Light We Cannot See***
+- Maalouf, Amin, ***Samarcande*** *(Samarkand)*
 
 ## *Poetry*
-- ***Four Quartets*** by T.S. Eliot
-- ***Gitanjali*** by Rabindranath Tagore
-- ***The Night is Darkening Round Me*** by Emily Brontë
+- Eliot, T.S., ***Four Quartets***
+- Tagore, Rabindranath, ***Gitanjali***
+- Brontë, Emily, ***The Night is Darkening Round Me***
 
 ## *Literary Criticism* 
-- ***Why Read the Classics*** by Italo Calvino 
-- ***Against Interpretation*** by Susan Sontag
+- Calvino, Italo, ***Why Read the Classics***
+- Sontag, Susan, **"Against Interpretation"**
 
 
 &nbsp;
@@ -59,42 +63,42 @@ If you read any of these books and wish to discuss them, feel free to contact me
 # Humanities
 
 ## *Classical Philosophy*
-- ***The Symposium*** by Plato
-- ***The Republic*** by Plato 
-- ***Theaetetus*** by Plato
+- Plato, ***The Symposium***
+- Plato, ***The Republic***
 
 ## *Ethics*
-- ***Traité des devoirs*** *(On Duties)* by Marcus Tullius Cicero
-- ***Stages on Life's Way: Orthodox Thinking on Bioethics*** by John and Lynn Breck
+- Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
+- Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
 
 ## *Culture & Society*
-- ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business*** by Neil Postman
-- ***Liberty*** by Virgina Woolf 
+- Woolf, Virginia, ***Liberty***
+- Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
 ## *History*
-- ***Talking to My Daughter About the Economy: A Brief History of Capitalism*** by Yanis Varoufakis
-- ***The Lessons of History*** by Will and Ariel Durant
-- ***A Little History of Economics*** by Niall Kishtainy 
-- ***Narrative of the Life of Frederik Douglass*** by Frederik Douglass 
-- ***The Eastern Schism*** *(Le schisme d'Orient)* by Sir Steven Runciman
+- Varoufakis, Yanis, ***Talking to My Daughter About the Economy: A Brief History of Capitalism***
+- Durant, Will & Ariel, ***The Lessons of History***
+- Kishtainy, Niall, ***A Little History of Economics***
+- Runciman, (Sir) Steven, ***The Eastern Schism*** *(Le schisme d'Orient)*
+
 
 &nbsp;
 
 # Sciences
 
 ## *Statistics, Probability & Machine Learning*
-- ***The Elements of Statistical Learning*** by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-- ***Deep Learning*** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- ***Pattern Recognition and Machine Learning*** by Christopher M. Bishop
-- ***Analyses factorielles simples et multiples*** by Brigitte Escofier, and Jérome Pagès
+- Hastie, Trevor, Tibshirani, Robert, & Friedman, Jerome, ***The Elements of Statistical Learning***
+- Goodfellow, Ian, Bengio, Yoshua, & Courville, Aaron, ***Deep Learning***
+- Escofier, Brigitte, & Pagès, Jérome, ***Analyses factorielles simples et multiples***
+- Ramsey, Frank P., **"Truth and Probability"**
 
 ## *Philosophy of Science*
-- ***The Use of Knowledge in Society*** by Friedrich Von Hayek 
+- Von Hayek, Friedrich, ***The Use of Knowledge in Society***
+- Von Hayek, Friedrich, ***Scientism and the Study of Society***
 
 ## *Popularised Science*
-- ***Fooled by Randomness*** by Nassim Nicholas Taleb 
-- ***Fermat's Last Theorem*** by Simon Singh
-- ***Is God a Mathematician?*** by Mario Livio
+- Taleb, Nassim Nicholas, ***Fooled by Randomness***
+- Sing, Simon, ***Fermat's Last Theorem***
+- Livio, Mario, ***Is God a Mathematician?***
 
 
 &nbsp;
@@ -102,20 +106,21 @@ If you read any of these books and wish to discuss them, feel free to contact me
 # Theology & Spiritual Life
 
 ## *Patristics*
-- ***No One Can Harm the Man Who Does Not Harm Himself*** by Saint John Chrysostom 
+- Saint John Chrysostom, ***No One Can Harm the Man Who Does Not Harm Himself***
+- Romanides, (Fr.) John, ***Patristic Theology***
 
 ## *Spiritual Life*
-- ***God's Revelation to the Human Heart*** by Father Seraphim Rose
-- ***For the Life of the World*** by Father Alexander Schmemann  
-- ***Our Thoughts Determine Our Lives*** by Elder Thaddeus of Vitovnika
+- Rose, (Fr.) Seraphim, ***God's Revelation to the Human Heart***
+- Schmemann, (Fr.) Alexander, ***For the Life of the World***
+- Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
 
 ## *Theology & Philosophy*
-- ***Address to Young Men on the Right Use of Greek Literature*** by Saint Basil the Great
-- ***Nihilism: The Root of the Revolution of the Modern Age*** by Father Seraphim Rose
+- Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
+- Rose, (Fr.) Seraphim, ***Nihilism: The Root of the Revolution of the Modern Age***
 
 ## *Contemporary Accounts*
-- ***I Know a Man in Christ*** by Metropolitan Hierotheos Vlachos
-- ***Father Seraphim Rose: His Life and Works*** by Hieromonk Damascene Christensen
-- ***A Night in the Desert of the Holy Mountain*** by Metropolitan Hierotheos Vlachos
-- ***The Mountain of Silence: A Search for Orthodox Spirituality*** by Kyriacos C. Markides
-- ***Elder Porphyrios: Testimonies and Experiences*** by Klitos Joannidis
+- Vlachos, (Met.) Hierotheos, ***I Know a Man in Christ***
+- Vlachos, (Met.) Hierotheos, ***A Night in the Desert of the Holy Mountain***
+- Christensen, (Hier.) Damascene, ***Father Seraphim Rose: His Life and Works***
+- Markides, Kyriacos C., ***The Mountain of Silence: A Search for Orthodox Spirituality***
+- Joannidis, Klitos, ***Elder Porphyrios: Testimonies and Experiences***
