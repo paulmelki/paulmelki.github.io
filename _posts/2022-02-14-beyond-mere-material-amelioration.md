@@ -8,7 +8,7 @@ knit: (function(inputFile, encoding) {
    rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 author: "Paul"
 date: '2022-02-14'
-excerpt: ""
+excerpt: "Interlude on Anna Karenina."
 layout: post
 categories:
   - Thoughts
