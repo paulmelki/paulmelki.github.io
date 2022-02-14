@@ -10,6 +10,7 @@ author: "Paul"
 date: '2022-02-14'
 excerpt: "Interlude on Anna Karenina."
 layout: post
+thumbnail: "/images/giovannina.jpg"
 categories:
   - Thoughts
   - Critique
