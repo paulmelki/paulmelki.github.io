@@ -4,9 +4,9 @@ title: Suggested Reads
 permalink: /suggestedreads/
 ---
 
-In case you are looking for a novel to enjoy with a nice cup of tea, a book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books and essays that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are definitely many important books which deserve to be here but are not, because I have not read them yet.
+In case you are looking for a novel to enjoy with a nice cup of tea, a book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books and essays that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are definitely many important works which deserve to be here but are not, because I have not read them yet. Following conventions, *titles of books are in italic* and "titles of essays are in quotations".
 
-If you read any of these books and wish to discuss them, feel free to contact me, we'll surely have a great conversation! :) 
+If you read any of these works and wish to discuss them, feel free to contact me, we'll surely have a great conversation! :) 
 
 &nbsp;
 
@@ -55,6 +55,7 @@ If you read any of these books and wish to discuss them, feel free to contact me
 ## *Literary Criticism* 
 - Calvino, Italo, ***Why Read the Classics***
 - Sontag, Susan, **"Against Interpretation"**
+- Orwell, George, **"Politics and the English Language"**
 
 
 &nbsp;
@@ -92,12 +93,12 @@ If you read any of these books and wish to discuss them, feel free to contact me
 - Ramsey, Frank P., **"Truth and Probability"**
 
 ## *Philosophy of Science*
-- Von Hayek, Friedrich, ***The Use of Knowledge in Society***
-- Von Hayek, Friedrich, ***Scientism and the Study of Society***
+- Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
+- Von Hayek, Friedrich, **"Scientism and the Study of Society"**
 
 ## *Popularised Science*
 - Taleb, Nassim Nicholas, ***Fooled by Randomness***
-- Sing, Simon, ***Fermat's Last Theorem***
+- Singh, Simon, ***Fermat's Last Theorem***
 - Livio, Mario, ***Is God a Mathematician?***
 
 
