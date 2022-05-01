@@ -88,10 +88,16 @@ If you read any of these works and wish to discuss them, feel free to contact me
 # Sciences
 
 ## *Statistics, Probability & Machine Learning*
-- Hastie, Trevor, Tibshirani, Robert, & Friedman, Jerome, ***The Elements of Statistical Learning***
-- Goodfellow, Ian, Bengio, Yoshua, & Courville, Aaron, ***Deep Learning***
+### *Textbooks*
+- Hastie, T., Tibshirani, R., & Friedman, J., ***The Elements of Statistical Learning***
+- Goodfellow, I., Bengio, Y., & Courville, A., ***Deep Learning***
 - Escofier, Brigitte, & Pagès, Jérome, ***Analyses factorielles simples et multiples***
+
+### *Papers*
 - Ramsey, Frank P., **"Truth and Probability"**
+- Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). **Deep Evidential Regression**. *Proceedings of the 34th Conference on Neural Information Processing Systems* (NeurIPS 2020), Vancouver, Canada.
+- Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2020). **Invariant Risk Minimization**. arXiv: [https://arxiv.org/abs/1907.02893](https://arxiv.org/abs/1907.02893).
+- Bordersen, K.H., Ong, C.S., Stephan, K.E., & Buhmann, J.M. (2010). **The Balanced Accuracy and its Posterior Distribution**. *IEEE 20th International Conference on Pattern Recognition (ICPR).*  
 
 ## *Philosophy of Science*
 - Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
