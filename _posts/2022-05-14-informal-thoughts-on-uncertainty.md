@@ -50,7 +50,7 @@ The adjective "epistemic" comes from the Ancient Greek word *episteme*, which ro
 
 
 ## **Conclusion**
-The study of uncertainty in machine learning is an ongoing field of research in which a lot still needs to be explored and developed. More important than simply understanding uncertainty is being able to account for it and generalise in spite of it, which is something that we still do not really know how to do. So, let us not rush into conclusions about the validity or the quality of our models, and let us not be tempted in the media by those who claim that we are close to achieving some scary type of all-knowing AI. 
+The study of uncertainty in machine learning is an ongoing field of research in which a lot still needs to be explored and developed. More important than simply understanding uncertainty is being able to account for it and generalise in spite of it, which is something that we still do not really know how to do. So, let us not rush into conclusions about the validity or the quality of our models, and let us not be tempted by those in the media who claim that we are close to achieving some scary type of all-knowing AI. 
 
 &nbsp;
 
