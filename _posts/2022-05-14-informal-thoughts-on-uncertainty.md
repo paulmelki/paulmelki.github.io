@@ -37,7 +37,7 @@ One way to think about uncertainty, and possibly better understand it and even q
 
 
 
-{% include image.html url="/images/uncertainty.png" width=800 align="center" caption="Simple representations of the two types of uncertainty. First, how do we classify the points in the region with interrogation mark? High aleatoric uncertainty (related to the data). Second, many models would fit the data well but which one is the best? High epistemic uncertainty. Source [3]." %}
+{% include image.html url="/images/uncertainty.PNG" width=800 align="center" caption="Simple representations of the two types of uncertainty. First, how do we classify the points in the region with interrogation mark? High aleatoric uncertainty (related to the data). Second, many models would fit the data well but which one is the best? High epistemic uncertainty. Source [3]." %}
 
 
 ### ***Aleatoric Uncertainty***
