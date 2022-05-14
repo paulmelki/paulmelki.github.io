@@ -19,6 +19,8 @@ hope to share with the world!
 
 <ul id="archive">
 {% for post in site.posts %}
+    {% if post.categories contains 'Technicals' %}
+    {% else %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
@@ -39,6 +41,7 @@ hope to share with the world!
 </span> 
 
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 
