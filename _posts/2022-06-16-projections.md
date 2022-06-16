@@ -7,10 +7,10 @@ output:
 knit: (function(inputFile, encoding) {
    rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 author: "Paul"
-date: '2022-02-14'
-excerpt: "Interlude on Anna Karenina."
+date: '2022-06-16'
+excerpt: "Symbolic thoughts on a current generation."
 layout: post
-thumbnail: "/images/giovannina.jpg"
+thumbnail: "/images/la_solitude.jpg"
 categories:
   - Thoughts
   - Symbolism
