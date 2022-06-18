@@ -23,7 +23,6 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Eliot, George, ***Middlemarch***
 - Austen, Jane, ***Pride and Prejudice***
 - Forster, E.M., ***A Room with a View***
-- Chekhov, Anton, ***The Seagull***
 - Zola, Emile, ***Germinal***
 - Balzac, Honoré (de), ***Eugénie Grandet***
 - Thoreau, Henry David, ***Walden***
@@ -52,6 +51,11 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Eliot, T.S., ***Four Quartets***
 - Tagore, Rabindranath, ***Gitanjali***
 - Brontë, Emily, ***The Night is Darkening Round Me***
+
+## *Theatre*
+- Eliot, T.S., ***The Cocktail Party***
+- Chekhov, Anton, ***The Seagull***
+- Chekhov, Anton, ***Platonov***
 
 ## *Literary Criticism* 
 - Calvino, Italo, ***Why Read the Classics***
