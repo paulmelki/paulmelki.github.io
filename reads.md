@@ -98,6 +98,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Escofier, Brigitte, & Pagès, Jérome, ***Analyses factorielles simples et multiples***
 
 ### *Papers*
+- Breiman, L. (2001). **Statistical Modeling: The Two Cultures**, *Statistical Science*, 16(3), 199-215.
 - Ramsey, Frank P., **"Truth and Probability"**
 - Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). **Deep Evidential Regression**. *Proceedings of the 34th Conference on Neural Information Processing Systems* (NeurIPS 2020), Vancouver, Canada.
 - Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2020). **Invariant Risk Minimization**. arXiv: [https://arxiv.org/abs/1907.02893](https://arxiv.org/abs/1907.02893).
@@ -122,6 +123,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Romanides, (Fr.) John, ***Patristic Theology***
 
 ## *Spiritual Life*
+- Bloom, (Met.) Anthony, ***God and Man***
 - Rose, (Fr.) Seraphim, ***God's Revelation to the Human Heart***
 - Schmemann, (Fr.) Alexander, ***For the Life of the World***
 - Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
