@@ -10,9 +10,9 @@ Hello, fellow wanderer of the world and welcome to my blog!
 
 Let me start by introducing myself, and hopefully you will too! 
 
-I'm a Lebanese researcher in Machine Learning and Perception residing in France. I'm currently a PhD candidate conducting my research jointly between
+I'm a Lebanese researcher in Machine Intelligence and Perception residing in France. I'm currently a PhD candidate conducting my research jointly between
 [the IMS Laboratory (CNRS, Bordeaux INP)](https://www.ims-bordeaux.fr/en/72-en/extranet-en/125-accueil)
-at [Université de Bordeaux](https://www.u-bordeaux.fr/) and [EXXACT Robotics](https://exxact-robotics.com/en/), a fast-growing dynamic agri-tech startup based in Champagne.
+at [Université de Bordeaux](https://www.u-bordeaux.fr/) and [EXXACT Robotics](https://exxact-robotics.com/en/), a fast-growing dynamic agri-tech startup based in Champagne. My research is focused on robust deep learning, uncertainty quantification and machine perception.
 
 I arrived to France to pursue my Master's degree in Statistics & Econometrics at [Toulouse School of Economics](https://www.tse-fr.eu/) (Université Toulouse 1 Capitole & 
 Université Toulouse 3 Paul Sabatier) where I concentrated my studies on machine & deep learning, and statistical spatial analysis, and have recently graduated *Cum Laude* (With Distinction).
@@ -22,13 +22,9 @@ Previous to my arrival in France, I pursued a Bachelor of Science in Computer Sc
 a Minor in Economics along with my CS studies (now you got your answer as how I got into Toulouse School of Economics),
 and graduated *Summa Cum Laude* with highest distinction among the CS graduates.
 
-On a less professional side, I'm an avid reader, mainly of classical literature and philosophy (but also of everything else too...) and you will
-find much of my book reviews here and on my [Goodreads](https://www.goodreads.com/paulmelki) account. I enjoy honest, deep, meaningful and well-constructed discussions and love to learn from others and sharpen my thinking, so you are free to discuss anything with me! I'm also a big fan of classical arts:
+On a less professional side, I’m an avid reader, mainly of classical literature and philosophy (but also of everything else too…) and you will
+find much of my book reviews here and on my [Goodreads](https://www.goodreads.com/paulmelki) account.account. I enjoy honest, deep, and meaningful discussions and love to learn from others and sharpen my thinking, so you are free to discuss anything with me! I’m also a big fan of classical arts:
 primarily classical music, but also of painting and architecture ; and you may find some ramblings I write on these topics on this blog. 
-I love coding (obviously), and photography too, and most importantly, being surrounded by mountains and
-trees and big skies. But well, enough talking... You will get to know me more, as you go through this website. 
-
-> "I wish I could show you when you are lonely or in darkness the astonishing light of your own being."
-> - Hafiz Al-Shirazi (14th century AD).
+I enjoy programming and problem solving, and most importantly, being surrounded by mountains, trees and big skies. 
 
 Life is beautiful, my friend! Let's keep pushing! 
