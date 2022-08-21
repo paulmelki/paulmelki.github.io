@@ -16,6 +16,9 @@ categories:
   - Thoughts
 ---
 
+<style>body {text-align: justify}</style>
+
+
 *Bordeaux, France*
 
 {% include image.html url="/images/incendie_comedie.jpg" width=700 align="center" caption="'L'incendie de la Comédie-Française', Edmond Allouard (1900)."%}

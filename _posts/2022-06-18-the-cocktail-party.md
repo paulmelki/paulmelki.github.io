@@ -16,6 +16,9 @@ categories:
   - Thoughts
 ---
 
+<style>body {text-align: justify}</style>
+
+
 {% include image.html url="/images/eliot_cocktailparty.jpg" width=250 align="right" %}
 
 *Bordeaux, France*

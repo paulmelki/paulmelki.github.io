@@ -23,8 +23,8 @@ a Minor in Economics along with my CS studies (now you got your answer as how I 
 and graduated *Summa Cum Laude* with highest distinction among the CS graduates.
 
 On a less professional side, I’m an avid reader, mainly of classical literature and philosophy (but also of everything else too…) and you will
-find much of my book reviews here and on my [Goodreads](https://www.goodreads.com/paulmelki) account.account. I enjoy honest, deep, and meaningful discussions and love to learn from others and sharpen my thinking, so you are free to discuss anything with me! I’m also a big fan of classical arts:
+find much of my book reviews here and on my [Goodreads](https://www.goodreads.com/paulmelki) account. I enjoy honest, deep, and meaningful discussions and love to learn from others and sharpen my thinking, so you are free to discuss anything with me! I’m also a big fan of classical arts:
 primarily classical music, but also of painting and architecture ; and you may find some ramblings I write on these topics on this blog. 
-I enjoy programming and problem solving, and most importantly, being surrounded by mountains, trees and big skies. 
+I enjoy programming and problem-solving, and most importantly, being surrounded by mountains, trees and big skies. 
 
 Life is beautiful, my friend! Let's keep pushing! 
