@@ -25,6 +25,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Forster, E.M., ***A Room with a View***
 - Zola, Emile, ***Germinal***
 - Balzac, Honoré (de), ***Eugénie Grandet***
+- Balzac, Honoré (de), ***Le Père Goriot***
 - Thoreau, Henry David, ***Walden***
 - Douglass, Frederik, ***Narrative of the Life of Frederik Douglass***
 
@@ -37,6 +38,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Solzhenitsyn, Aleksandr, ***One Day in the Life of Ivan Denisovich***
 - Williams, John, ***Stoner***
 - Bradbury, Ray, ***Fahrenheit 451***
+- Kazantzakis, Nikos, ***Zorba the Greek*** *(Alexis Zorba)*
 
 ## *Contemporary*
 - Yasmina Khadra, ***Les hirondelles de Kaboul*** *(Swallows of Kabul)*
@@ -49,6 +51,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Poetry*
 - Eliot, T.S., ***Four Quartets***
+- Eliot, T.S., ***The Waste Land***
 - Tagore, Rabindranath, ***Gitanjali***
 - Brontë, Emily, ***The Night is Darkening Round Me***
 
@@ -75,6 +78,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Ethics*
 - Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
 - Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
+- Peterson, Jordan B., ***12 Rules for Life***
 
 ## *Culture & Society*
 - Woolf, Virginia, ***Liberty***
@@ -124,6 +128,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Spiritual Life*
 - Bloom, (Met.) Anthony, ***God and Man***
+- Bloom, (Met.) Anthony, ***Courage to Pray*** (La Prière)
 - Rose, (Fr.) Seraphim, ***God's Revelation to the Human Heart***
 - Schmemann, (Fr.) Alexander, ***For the Life of the World***
 - Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
