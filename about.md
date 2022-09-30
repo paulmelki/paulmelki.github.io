@@ -10,7 +10,7 @@ Hello, fellow wanderer of the world and welcome to my blog!
 
 Let me start by introducing myself, and hopefully you will too! 
 
-I'm a Lebanese researcher in Machine Intelligence and Perception residing in France. I'm currently a PhD candidate conducting my research jointly between
+I'm a Lebanese researcher in Statistical Learning and Machine Perception residing in France. I'm currently a PhD candidate conducting my research jointly between
 [the IMS Laboratory (CNRS, Bordeaux INP)](https://www.ims-bordeaux.fr/en/72-en/extranet-en/125-accueil)
 at [Université de Bordeaux](https://www.u-bordeaux.fr/) and [EXXACT Robotics](https://exxact-robotics.com/en/), a fast-growing dynamic agri-tech startup based in Champagne. My research is focused on robust deep learning, uncertainty quantification and machine perception.
 
