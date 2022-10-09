@@ -78,7 +78,6 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Ethics*
 - Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
 - Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
-- Peterson, Jordan B., ***12 Rules for Life***
 
 ## *Culture & Society*
 - Woolf, Virginia, ***Liberty***
@@ -97,9 +96,12 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Statistics, Probability & Machine Learning*
 ### *Textbooks*
+- Vapnik, V., ***The Nature of Statistical Learning Theory***
+- Vovk, V., ***Algorithmic Learning in a Random World***
 - Hastie, T., Tibshirani, R., & Friedman, J., ***The Elements of Statistical Learning***
 - Goodfellow, I., Bengio, Y., & Courville, A., ***Deep Learning***
 - Escofier, Brigitte, & Pagès, Jérome, ***Analyses factorielles simples et multiples***
+- Angrist, J.D., & Pischke, J-S., ***Mostly Harmless Econometrics***
 
 ### *Papers*
 - Breiman, L. (2001). **Statistical Modeling: The Two Cultures**, *Statistical Science*, 16(3), 199-215.
@@ -125,6 +127,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Patristics*
 - Saint John Chrysostom, ***No One Can Harm the Man Who Does Not Harm Himself***
 - Romanides, (Fr.) John, ***Patristic Theology***
+- Vlachos, (Met.) Hierotheos, ***The Mind of the Orthodox Church***
 
 ## *Spiritual Life*
 - Bloom, (Met.) Anthony, ***God and Man***
