@@ -64,6 +64,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Calvino, Italo, ***Why Read the Classics***
 - Sontag, Susan, **"Against Interpretation"**
 - Orwell, George, **"Politics and the English Language"**
+- Orwell, George, **"Why I Write"**
 
 
 &nbsp;
@@ -80,6 +81,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
 
 ## *Culture & Society*
+- Orwell, George, **"Notes on Nationalism"**
 - Woolf, Virginia, ***Liberty***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
@@ -108,7 +110,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Ramsey, Frank P., **"Truth and Probability"**
 - Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). **Deep Evidential Regression**. *Proceedings of the 34th Conference on Neural Information Processing Systems* (NeurIPS 2020), Vancouver, Canada.
 - Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2020). **Invariant Risk Minimization**. arXiv: [https://arxiv.org/abs/1907.02893](https://arxiv.org/abs/1907.02893).
-- Bordersen, K.H., Ong, C.S., Stephan, K.E., & Buhmann, J.M. (2010). **The Balanced Accuracy and its Posterior Distribution**. *IEEE 20th International Conference on Pattern Recognition (ICPR).*  
+- Vovk, V. (2013). **Conditional Validity of Inductive Conformal Predictors**, *Machine Learning*.
 
 ## *Philosophy of Science*
 - Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
@@ -139,6 +141,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Theology & Philosophy*
 - Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
 - Rose, (Fr.) Seraphim, ***Nihilism: The Root of the Revolution of the Modern Age***
+- Larchet, Jean-Claude, ***Les fondements spirituels de la crise écologique***
 
 ## *Contemporary Accounts*
 - Vlachos, (Met.) Hierotheos, ***I Know a Man in Christ***
