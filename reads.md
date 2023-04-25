@@ -16,6 +16,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Dostoyevsky, Fyodor, ***Crime and Punishment***
 - Dostoyevsky, Fyodor, ***The Brothers Karamazov***
 - Dostoyevsky, Fyodor, ***The Idiot***
+- Dostoyevsky, Fyodor, ***The Demons (The Possessed)***
 - Tolstoy, Leo, ***Anna Karenina***
 - Tolstoy, Leo, ***How Much Land Does a Man Need?***
 - Brontë, Charlotte, ***Jane Eyre***
@@ -82,6 +83,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Culture & Society*
 - Orwell, George, **"Notes on Nationalism"**
+- Orwell, George, **"The Limit to Pessimism"**
 - Woolf, Virginia, ***Liberty***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
@@ -113,6 +115,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Vovk, V. (2013). **Conditional Validity of Inductive Conformal Predictors**, *Machine Learning*.
 
 ## *Philosophy of Science*
+- Hamming, Richard W., ***The Art of Doing Science and Engineering: Learning to Learn***
 - Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
 - Von Hayek, Friedrich, **"Scientism and the Study of Society"**
 
@@ -137,6 +140,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Rose, (Fr.) Seraphim, ***God's Revelation to the Human Heart***
 - Schmemann, (Fr.) Alexander, ***For the Life of the World***
 - Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
+- Vlad, (Mother) Silouana, ***Ma première véritable rencontre avec le Christ... au coeur de mon enfer***
 
 ## *Theology & Philosophy*
 - Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
