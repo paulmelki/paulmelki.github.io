@@ -29,7 +29,6 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Balzac, Honoré (de), ***Eugénie Grandet***
 - Balzac, Honoré (de), ***Le Père Goriot***
 - Thoreau, Henry David, ***Walden***
-- Douglass, Frederik, ***Narrative of the Life of Frederik Douglass***
 
 ## *Modern Classics*
 - Woolf, Virginia, ***To the Lighthouse***
