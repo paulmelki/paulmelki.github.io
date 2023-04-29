@@ -19,6 +19,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Dostoyevsky, Fyodor, ***The Demons (The Possessed)***
 - Tolstoy, Leo, ***Anna Karenina***
 - Tolstoy, Leo, ***How Much Land Does a Man Need?***
+- Proust, Marcel, ***La confession d'une jeune fille***
 - Brontë, Charlotte, ***Jane Eyre***
 - Brontë, Emily, ***Wuthering Heights***
 - Eliot, George, ***Middlemarch***
