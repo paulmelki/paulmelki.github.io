@@ -85,8 +85,8 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Culture & Society*
 - Orwell, George, **"Notes on Nationalism"**
 - Orwell, George, **"The Limit to Pessimism"**
-- Woolf, Virginia, ***Liberty***
 - Ilouz, Eva, ***La fin de l'amour***
+- Braunstein, Jean-François, ***La religion Woke***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
 ## *History*
@@ -112,9 +112,9 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ### *Papers*
 - Breiman, L. (2001). **Statistical Modeling: The Two Cultures**, *Statistical Science*, 16(3), 199-215.
 - Ramsey, Frank P., **"Truth and Probability"**
-- Amini, A., Schwarting, W., Soleimany, A., & Rus, D. (2020). **Deep Evidential Regression**. *Proceedings of the 34th Conference on Neural Information Processing Systems* (NeurIPS 2020), Vancouver, Canada.
-- Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D. (2020). **Invariant Risk Minimization**. arXiv: [https://arxiv.org/abs/1907.02893](https://arxiv.org/abs/1907.02893).
+- Hullermeier, E., & Waegeman, W., **Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods**, *Machine Learning*, DOI:10.1007/s10994-021-05946-3.
 - Vovk, V. (2013). **Conditional Validity of Inductive Conformal Predictors**, *Machine Learning*.
+- Angelopoulos, A., & Bates, S. (2023). **Conformal Prediction: A Gentle Introduction**, *Foundations and Trends in Machine Learning*, DOI:10.1561/2200000101.
 
 ## *Philosophy of Science*
 - Hamming, Richard W., ***The Art of Doing Science and Engineering: Learning to Learn***
@@ -139,6 +139,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Spiritual Life*
 - Bloom, (Met.) Anthony, ***God and Man***
 - Bloom, (Met.) Anthony, ***Courage to Pray*** (La Prière)
+- Bloom, (Met.) Anthony, ***Les étapes de la vie spirituelle***
 - Rose, (Fr.) Seraphim, ***God's Revelation to the Human Heart***
 - Schmemann, (Fr.) Alexander, ***For the Life of the World***
 - Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
