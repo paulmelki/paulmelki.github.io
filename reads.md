@@ -40,6 +40,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Williams, John, ***Stoner***
 - Bradbury, Ray, ***Fahrenheit 451***
 - Kazantzakis, Nikos, ***Zorba the Greek*** *(Alexis Zorba)*
+- Sagan, Françoise, ***Bonjour tristesse***
 
 ## *Contemporary*
 - Yasmina Khadra, ***Les hirondelles de Kaboul*** *(Swallows of Kabul)*
@@ -85,6 +86,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Orwell, George, **"Notes on Nationalism"**
 - Orwell, George, **"The Limit to Pessimism"**
 - Woolf, Virginia, ***Liberty***
+- Ilouz, Eva, ***La fin de l'amour***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
 ## *History*
