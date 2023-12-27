@@ -4,14 +4,17 @@
 - title: "Resume"
   href: "/resume/"
 
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
 - title: "Suggested Reads"
   href: "/suggestedreads/"
 
-- title: "Technicals"
-  href: "/techblog/"
-
-- title: "Life & Thoughts"
-  href: "/blog/"
+- title: "Photography"
+  href: "/photography/"
 
 # - title: "For Students"
 #   href: "/for-students/"

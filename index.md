@@ -4,9 +4,19 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="/images/blog_picture_pyrenees.jpeg" width=350 align="right" caption="Picture of me where I belong." %}
+{% include image.html url="/images/paulmelki_profile.jpeg" width=400 align="right"%}
 
-Hello, fellow wanderer of the world and welcome to my blog! 
+Hello! I'm currently a second year PhD student at the Signal & Image Processing group of the [IMS Lab](https://www.ims-bordeaux.fr/) at the University of Bordeaux (in the gorgeous Southwest of France). 
+
+As my I'm a [CIFRE fellow](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510), I'm also working in industrial context as a R&D engineer in the AI/Vision team at [EXXACT Robotics](https://exxact-robotics.com/en/), a fast growing agri-tech enterprise. 
+
+My research is focused on uncertainty quantification, statistical machine learning and computer vision, with particular interests in applications for agriculture, the environmental and earth sciences.
+
+Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious [Toulouse School of Economics](https://www.tse-fr.eu/), and my Bachelor's degree with a major in Computer Science and a minor in Economics at the [University of Balamand](https://www.balamand.edu.lb/home/Pages/default.aspx) in my native country of Lebanon.
+
+I'm also a First Cycle (Bachelor level) student in Orthodox Christian theology at the [Centre Dumitru Stăniloae](https://cdsparis.eu/) in Paris, where I focus on the dialogue between faith, science and philosophy.
+
+<!-- Hello, fellow wanderer of the world and welcome to my blog! 
 
 Let me start by introducing myself, and hopefully you will too! 
 
@@ -27,4 +37,4 @@ find much of my book reviews here and on my [Goodreads](https://www.goodreads.co
 primarily classical music, but also of painting and architecture ; and you may find some ramblings I write on these topics on this blog. 
 I enjoy programming and problem-solving, and most importantly, being surrounded by mountains, trees and big skies. 
 
-Life is beautiful, my friend! Let's keep pushing! 
+Life is beautiful, my friend! Let's keep pushing!  -->

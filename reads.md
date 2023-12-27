@@ -41,6 +41,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Bradbury, Ray, ***Fahrenheit 451***
 - Kazantzakis, Nikos, ***Zorba the Greek*** *(Alexis Zorba)*
 - Sagan, Françoise, ***Bonjour tristesse***
+- Drabble, Margaret, ***Jerusalem the Golden***
 
 ## *Contemporary*
 - Yasmina Khadra, ***Les hirondelles de Kaboul*** *(Swallows of Kabul)*
@@ -64,7 +65,6 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Literary Criticism* 
 - Calvino, Italo, ***Why Read the Classics***
-- Sontag, Susan, **"Against Interpretation"**
 - Orwell, George, **"Politics and the English Language"**
 - Orwell, George, **"Why I Write"**
 
@@ -77,12 +77,14 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Classical Philosophy*
 - Plato, ***The Symposium***
 - Plato, ***The Republic***
+- Plato, ***The Apology of Socrates***
 
 ## *Ethics*
 - Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
 - Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
 
 ## *Culture & Society*
+- Lewis, C.S., **"The Necessity of Chivalry"** ([in English](https://matiane.wordpress.com/2021/09/13/necessity-of-chivalry-by-c-s-lewis/)) ([*en français*](https://cslewis.fr/de-la-necessite-de-la-chevalerie))
 - Orwell, George, **"Notes on Nationalism"**
 - Orwell, George, **"The Limit to Pessimism"**
 - Ilouz, Eva, ***La fin de l'amour***
@@ -101,7 +103,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 # Sciences
 
 ## *Statistics, Probability & Machine Learning*
-### *Textbooks*
+#### *Textbooks*
 - Vapnik, V., ***The Nature of Statistical Learning Theory***
 - Vovk, V., ***Algorithmic Learning in a Random World***
 - Hastie, T., Tibshirani, R., & Friedman, J., ***The Elements of Statistical Learning***
@@ -109,7 +111,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Escofier, Brigitte, & Pagès, Jérome, ***Analyses factorielles simples et multiples***
 - Angrist, J.D., & Pischke, J-S., ***Mostly Harmless Econometrics***
 
-### *Papers*
+#### *Papers*
 - Breiman, L. (2001). **Statistical Modeling: The Two Cultures**, *Statistical Science*, 16(3), 199-215.
 - Ramsey, Frank P., **"Truth and Probability"**
 - Hullermeier, E., & Waegeman, W., **Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods**, *Machine Learning*, DOI:10.1007/s10994-021-05946-3.
@@ -129,12 +131,20 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 &nbsp;
 
-# Theology & Spiritual Life
+# Theology
 
 ## *Patristics*
+- Unknown, ***The Didache***
+- Saint Clement of Rome, ***Épître aux Corinthiens*** (SC 167)
 - Saint John Chrysostom, ***No One Can Harm the Man Who Does Not Harm Himself***
 - Romanides, (Fr.) John, ***Patristic Theology***
 - Vlachos, (Met.) Hierotheos, ***The Mind of the Orthodox Church***
+- Meyendorff, (Fr.) Jean, ***Initiation à la théologie byzantine***
+
+## *Theology & Philosophy*
+- Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
+- Rose, (Fr.) Seraphim, ***Nihilism: The Root of the Revolution of the Modern Age***
+- Larchet, Jean-Claude, ***Les fondements spirituels de la crise écologique***
 
 ## *Spiritual Life*
 - Bloom, (Met.) Anthony, ***God and Man***
@@ -144,11 +154,6 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Schmemann, (Fr.) Alexander, ***For the Life of the World***
 - Elder Thaddeus of Vitovnika, ***Our Thoughts Determine Our Lives***
 - Vlad, (Mother) Silouana, ***Ma première véritable rencontre avec le Christ... au coeur de mon enfer***
-
-## *Theology & Philosophy*
-- Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
-- Rose, (Fr.) Seraphim, ***Nihilism: The Root of the Revolution of the Modern Age***
-- Larchet, Jean-Claude, ***Les fondements spirituels de la crise écologique***
 
 ## *Contemporary Accounts*
 - Vlachos, (Met.) Hierotheos, ***I Know a Man in Christ***
