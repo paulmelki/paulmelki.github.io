@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: Resumé & News
 permalink: /resume/
 ---
 
@@ -13,9 +13,5 @@ A list of publications can be found below!
 
 <!-- {% include embedpdf.html code="f5p4nwg73ruxbho/svm-cv.pdf" width=100 height=800 %} -->
 
-&nbsp;  
-
-## Publications
-
-1. **Melki, P.**, Bombrun, L, Millet, E., Diallo, B., Elchaoui Elghor, H., & Da Costa, J-P. (2022). Exploratory Analysis on Pixelwise Image Segmentation Metrics with an Application in Proximal Sensing. *Remote Sensing*, 14(4) pp. 996. DOI: https://doi.org/10.3390/rs14040996.
+&nbsp;
 

@@ -6,15 +6,15 @@ permalink: /
 
 {% include image.html url="/images/paulmelki_profile.jpeg" width=400 align="right"%}
 
-Hello! I'm currently a second year PhD student at the Signal & Image Processing group of the [IMS Lab](https://www.ims-bordeaux.fr/) at the University of Bordeaux (in the gorgeous Southwest of France). 
+Hello! I'm currently a second year PhD student at the Signal & Image Processing group of the <a href="https://www.ims-bordeaux.fr/" target="_blank">IMS Lab</a> at the University of Bordeaux (in the gorgeous Southwest of France). 
 
-As my I'm a [CIFRE fellow](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510), I'm also working in industrial context as a R&D engineer in the AI/Vision team at [EXXACT Robotics](https://exxact-robotics.com/en/), a fast growing agri-tech enterprise. 
+As my I'm a <a href="https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510" target="_blank">CIFRE fellow</a>, I'm also working in industrial context as a R&D engineer in the AI/Vision team at <a href="https://exxact-robotics.com/en" target="_blank">EXXACT Robotics</a>, a fast growing agri-tech enterprise. 
 
 My research is focused on uncertainty quantification, statistical machine learning and computer vision, with particular interests in applications for agriculture, the environmental and earth sciences.
 
-Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious [Toulouse School of Economics](https://www.tse-fr.eu/), and my Bachelor's degree with a major in Computer Science and a minor in Economics at the [University of Balamand](https://www.balamand.edu.lb/home/Pages/default.aspx) in my native country of Lebanon.
+Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics</a>, and my Bachelor's degree with a major in Computer Science and a minor in Economics at the <a href="https://www.balamand.edu.lb/home/Pages/default.aspx" target="_blank">University of Balamand</a> in my native country of Lebanon.
 
-I'm also a First Cycle (Bachelor level) student in Orthodox Christian theology at the [Centre Dumitru Stăniloae](https://cdsparis.eu/) in Paris, where I focus on the dialogue between faith, science and philosophy.
+I'm also a First Cycle (Bachelor level) student in Orthodox Christian theology at the <a href="https://cdsparis.eu/" target="_blank">Centre Dumitru Stăniloae</a> in Paris, where I focus on the dialogue between faith, science and philosophy.
 
 <!-- Hello, fellow wanderer of the world and welcome to my blog! 
 
