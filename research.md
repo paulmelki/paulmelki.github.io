@@ -21,16 +21,18 @@ I also offer [a three-page research statement](/docs/svm-research-statement.pdf)
 ## Peer-Reviewed Journals
 
 
-**Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (*forthcoming*). Uncertainty Quantification by Conformal Prediction for Agricultural Computer Vision. *Precision Agriculture*.
+- **Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (*submitted*). Uncertainty Quantification by Conformal Prediction for Agricultural Computer Vision. *Precision Agriculture*.
 
-**Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2022). [Exploratory Analysis on Pixelwise Image Segmentation Metrics with an Application in Proximal Sensing](https://www.mdpi.com/2072-4292/14/4/996). *Remote Sensing*.
+- Van Marrewijk, B., Dandjinou, C., Rustia D.J.A., Franco Gonzalez, N., Diallo, B., Dias, J., **Melki, P.** & Block, P.M. (*submitted*). Active Learning for Efficient Annotation in Precision Agriculture: A Use-Case on Crop-Weed Semantic Segmentation. *Plant Phenomics*.
+
+- **Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2022). [Exploratory Analysis on Pixelwise Image Segmentation Metrics with an Application in Proximal Sensing](https://www.mdpi.com/2072-4292/14/4/996). *Remote Sensing*.
 
 
 ## Conferences & Workshops
 
-**Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (2023). [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification ](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html). *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, pp. 614-623.*
+- **Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (2023). [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification ](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html). *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, pp. 614-623.*
 
-**Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2023). [A Study of Pixelwise Segmentation Metrics using Clustering of Variables and Self-Organizing Maps](https://doi.org/10.17660/ActaHortic.2023.1360.5). *Acta Horticulturae: XXXI International Horticultural Congress*.
+- **Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2023). [A Study of Pixelwise Segmentation Metrics using Clustering of Variables and Self-Organizing Maps](https://doi.org/10.17660/ActaHortic.2023.1360.5). *Acta Horticulturae: XXXI International Horticultural Congress*.
 
 <!-- ## Select Working Papers and Works in Progress
 
