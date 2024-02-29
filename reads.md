@@ -82,6 +82,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Ethics*
 - Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
 - Breck, John & Lynn, ***Stages on Life's Way: Orthodox Thinking on Bioethics***
+- Lewis, C.S., ***The Screwtape Letters***
 
 ## *Culture & Society*
 - Lewis, C.S., **"The Necessity of Chivalry"** ([in English](https://matiane.wordpress.com/2021/09/13/necessity-of-chivalry-by-c-s-lewis/)) ([*en français*](https://cslewis.fr/de-la-necessite-de-la-chevalerie))
