@@ -93,6 +93,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
 ## *History*
+- Saint Gregory of Tours, ***Histoire des Francs***
 - Varoufakis, Yanis, ***Talking to My Daughter About the Economy: A Brief History of Capitalism***
 - Durant, Will & Ariel, ***The Lessons of History***
 - Kishtainy, Niall, ***A Little History of Economics***
