@@ -20,9 +20,6 @@ I also offer [a three-page research statement](/docs/svm-research-statement.pdf)
 
 ## Peer-Reviewed Journals
 
-
-- Van Marrewijk, B., Dandjinou, C., Rustia D.J.A., Franco Gonzalez, N., Diallo, B., Dias, J., **Melki, P.** & Block, P.M. (*submitted*). Active Learning for Efficient Annotation in Precision Agriculture: A Use-Case on Crop-Weed Semantic Segmentation. *Plant Phenomics*.
-
 - **Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2022). [Exploratory Analysis on Pixelwise Image Segmentation Metrics with an Application in Proximal Sensing](https://www.mdpi.com/2072-4292/14/4/996). *Remote Sensing*.
 
 
