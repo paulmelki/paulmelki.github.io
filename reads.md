@@ -31,6 +31,8 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Thoreau, Henry David, ***Walden***
 
 ## *Modern Classics*
+- Lewis, C.S., ***The Screwtape Letters***
+- Lewis, C.S., ***The Pilgrim's Regress***
 - Woolf, Virginia, ***To the Lighthouse***
 - Woolf, Virginia, ***The Waves***
 - Lee, Harper, ***To Kill a Mockingbird***
