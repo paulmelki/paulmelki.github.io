@@ -80,6 +80,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Plato, ***The Symposium***
 - Plato, ***The Republic***
 - Plato, ***The Apology of Socrates***
+- Epictetus, ***Enchiridion*** *(The Handbook of Epictetus)*
 
 ## *Ethics*
 - Cicero, Marcus Tullius, ***Traité des devoirs*** *(On Duties)*
