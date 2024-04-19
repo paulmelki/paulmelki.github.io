@@ -25,7 +25,9 @@ I also offer [a three-page research statement](/docs/svm-research-statement.pdf)
 
 ## Conferences & Workshops
 
-- **Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (2023). [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification ](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html). *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, pp. 614-623.*
+- **Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (2024). The Penalized Inverse Probability Measure for Conformal Classification. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops.* Seattle, WA, USA.
+
+- **Melki, P.**, Bombrun, L., Diallo, B., Dias, J. & Da Costa, J.-P. (2023). [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification ](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html). *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, pp. 614-623.* Paris, France.
 
 - **Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2023). [A Study of Pixelwise Segmentation Metrics using Clustering of Variables and Self-Organizing Maps](https://doi.org/10.17660/ActaHortic.2023.1360.5). *Acta Horticulturae: XXXI International Horticultural Congress*.
 
