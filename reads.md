@@ -127,6 +127,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Hamming, Richard W., ***The Art of Doing Science and Engineering: Learning to Learn***
 - Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
 - Von Hayek, Friedrich, **"Scientism and the Study of Society"**
+- Lewis, C.S., **"Religion and Science"**
 
 ## *Popularised Science*
 - Taleb, Nassim Nicholas, ***Fooled by Randomness***
