@@ -91,6 +91,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Lewis, C.S., **"The Necessity of Chivalry"** ([in English](https://matiane.wordpress.com/2021/09/13/necessity-of-chivalry-by-c-s-lewis/)) ([*en français*](https://cslewis.fr/de-la-necessite-de-la-chevalerie))
 - Orwell, George, **"Notes on Nationalism"**
 - Orwell, George, **"The Limit to Pessimism"**
+- Schiller, Friedreich, ***On the Aesthetic Education of Man***
 - Ilouz, Eva, ***La fin de l'amour***
 - Braunstein, Jean-François, ***La religion Woke***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
