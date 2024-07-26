@@ -31,12 +31,10 @@ I also offer [a three-page research statement](/docs/svm-research-statement.pdf)
 
 - **Melki, P.**, Bombrun, L., Millet, E., Diallo, B., Elchaoui Elghor, H. & Da Costa, J.-P. (2023). [A Study of Pixelwise Segmentation Metrics using Clustering of Variables and Self-Organizing Maps](https://doi.org/10.17660/ActaHortic.2023.1360.5). *Acta Horticulturae: XXXI International Horticultural Congress*.
 
-<!-- ## Select Working Papers and Works in Progress
+# Reviewing
 
-"Understanding Carrots and Sticks in U.S. Aid Allocation: The Case of the Middle East"
+So far I have reviewed articles in two venues: 
 
-"U.S. Presidents, Human Rights, and Economic Aid from Truman to Obama: A Mixed Effects Approach"
-
-"Convergence or Divergence? The Unique Effect of Territorial Threats on Attitudes toward Authoritarian Leaders" -->
-
+- **Journal:** [_Precision Agriculture_](https://link.springer.com/journal/11119) (IF: 5.4), a leading technical journal in precision agriculture
+- **Workshop:** [_Computer Vision for Plant Phenotyping and Agriculture_ (CVPPA)](https://cvppa2024.github.io) workshop held concurrently with CVPR/ICCV/ECCV depending on the year.
 
