@@ -11,7 +11,7 @@ Hello! I'm currently a second year PhD student at the Signal & Image Processing 
 
 Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious [Toulouse School of Economics](https://www.tse-fr.eu/) and my Bachelor's degree with a major in Computer Science and a minor in Economics at the [University of Balamand](https://www.balamand.edu.lb/home/Pages/default.aspx) in my native country of Lebanon.
 
-I'm also a First Cycle (Bachelor level) student in Orthodox Christian theology at the [Centre Dumitru Stăniloae](https://cdsparis.eu/) in Paris, where I focus on the dialogue between faith, science and philosophy.
+I'm also interested in classical literature and arts, trail running and hiking, philosophy and theology. Let's discuss!
 
 <!-- Hello, fellow wanderer of the world and welcome to my blog! 
 
