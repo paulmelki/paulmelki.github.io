@@ -14,4 +14,4 @@ My research is focused on uncertainty quantification, statistical machine learni
 
 Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics</a>, and my Bachelor's degree with a major in Computer Science and a minor in Economics at the <a href="https://www.balamand.edu.lb/home/Pages/default.aspx" target="_blank">University of Balamand</a> in my native country of Lebanon.
 
-I'm also interested in classical literature and arts, trail running and hiking, philosophy and theology.
+I'm also interested in classical literature and arts (cinema, music, photography, architecture), trail running and hiking, philosophy (of science, ethics, metaphysics) and theology. Let's discuss!
