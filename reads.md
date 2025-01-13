@@ -4,7 +4,9 @@ title: Suggested Reads
 permalink: /suggestedreads/
 ---
 
-In case you are looking for a novel to enjoy with a nice cup of tea, a book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books and essays that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are definitely many important works which deserve to be here but are not, because I have not read them yet. Following conventions, *titles of books are in italic* and "titles of essays are in quotations".
+In case you are looking for a novel to enjoy with a nice cup of tea, a book that will give you a new perspective on life and existence, or simply some scientific and philosophical resources, you can find here *some* of the books and essays that I have read and that I would recommend. This list is a project under construction, and will surely get longer as I advance in life. There are definitely many important works which deserve to be here but are not, because I have not read them yet. 
+
+Following conventions, *titles of books are in italic* and "titles of essays are in quotations".
 
 If you read any of these works and wish to discuss them, feel free to contact me, we'll surely have a great conversation! :) 
 
@@ -53,6 +55,10 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Chbosky, Stephen, ***The Perks of Being a Wallflower***
 - Doerr, Anthony, ***All the Light We Cannot See***
 - Maalouf, Amin, ***Samarcande*** *(Samarkand)*
+- Kundera, Milan, ***L'immortalité***
+
+## *Historical Fiction*
+- Andronikof, Marc, ***Tamar - Roi et Reine***
 
 ## *Poetry*
 - Eliot, T.S., ***Four Quartets***
@@ -62,6 +68,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Theatre*
 - Eliot, T.S., ***The Cocktail Party***
+- Eliot, T.S., ***The Family Reunion***
 - Chekhov, Anton, ***The Seagull***
 - Chekhov, Anton, ***Platonov***
 
@@ -80,6 +87,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Plato, ***The Symposium***
 - Plato, ***The Republic***
 - Plato, ***The Apology of Socrates***
+- Plato, ***Phaedrus***
 - Epictetus, ***Enchiridion*** *(The Handbook of Epictetus)*
 
 ## *Ethics*
