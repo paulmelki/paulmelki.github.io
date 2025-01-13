@@ -11,7 +11,7 @@ Hello! I'm currently a second year PhD student at the Signal & Image Processing 
 
 Previously, I obtained my Master's degree in Statistics & Econometrics at the prestigious [Toulouse School of Economics](https://www.tse-fr.eu/) and my Bachelor's degree with a major in Computer Science and a minor in Economics at the [University of Balamand](https://www.balamand.edu.lb/home/Pages/default.aspx) in my native country of Lebanon.
 
-I'm also interested in classical literature and arts, trail running and hiking, philosophy and theology. Let's discuss!
+I'm also interested in classical literature and arts (cinema, music, photography, architecture), trail running and hiking, philosophy (of science, ethics, metaphysics) and theology. Let's discuss!
 
 <!-- Hello, fellow wanderer of the world and welcome to my blog! 
 
