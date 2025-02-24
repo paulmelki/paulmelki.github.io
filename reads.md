@@ -71,6 +71,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Eliot, T.S., ***The Family Reunion***
 - Chekhov, Anton, ***The Seagull***
 - Chekhov, Anton, ***Platonov***
+- Dumbadze, Nodar, ***Hellados***
 
 ## *Literary Criticism* 
 - Calvino, Italo, ***Why Read the Classics***
@@ -133,6 +134,8 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Angelopoulos, A., & Bates, S. (2023). **Conformal Prediction: A Gentle Introduction**, *Foundations and Trends in Machine Learning*, DOI:10.1561/2200000101.
 
 ## *Philosophy of Science*
+- Poincaré, Henri, **"La Science et l'hypothèse"**
+- Popper, Karl R., ***The Logic of Scientific Discovery***
 - Hamming, Richard W., ***The Art of Doing Science and Engineering: Learning to Learn***
 - Von Hayek, Friedrich, **"The Use of Knowledge in Society"**
 - Von Hayek, Friedrich, **"Scientism and the Study of Society"**
@@ -140,6 +143,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 
 ## *Popularised Science*
 - Taleb, Nassim Nicholas, ***Fooled by Randomness***
+- Taleb, Nassim Nicholas, ***The Black Swan: The Impact of the Highly Improbable***
 - Singh, Simon, ***Fermat's Last Theorem***
 - Livio, Mario, ***Is God a Mathematician?***
 
@@ -151,10 +155,13 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Patristics*
 - Unknown, ***The Didache***
 - Saint Clement of Rome, ***Épître aux Corinthiens*** (SC 167)
+- Saint Ignace of Antioch, ***Letters***
+- Saint Polycarpe of Smyrna, ***Letters***
 - Saint John Chrysostom, ***No One Can Harm the Man Who Does Not Harm Himself***
 - Romanides, (Fr.) John, ***Patristic Theology***
 - Vlachos, (Met.) Hierotheos, ***The Mind of the Orthodox Church***
 - Meyendorff, (Fr.) Jean, ***Initiation à la théologie byzantine***
+- Larchet, Jean-Claude, ***En suivant les Pères : La vie et l'œuvre du Père Georges Florovsky***
 
 ## *Theology & Philosophy*
 - Saint Basil the Great, ***Address to Young Men on the Right Use of Greek Literature***
