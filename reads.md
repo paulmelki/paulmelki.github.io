@@ -35,6 +35,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 ## *Modern Classics*
 - Lewis, C.S., ***The Screwtape Letters***
 - Lewis, C.S., ***The Pilgrim's Regress***
+- Camus, Albert, ***L'étranger***
 - Woolf, Virginia, ***To the Lighthouse***
 - Woolf, Virginia, ***The Waves***
 - Lee, Harper, ***To Kill a Mockingbird***
@@ -103,6 +104,7 @@ If you read any of these works and wish to discuss them, feel free to contact me
 - Schiller, Friedreich, ***On the Aesthetic Education of Man***
 - Ilouz, Eva, ***La fin de l'amour***
 - Braunstein, Jean-François, ***La religion Woke***
+- Hao, Karen, ***Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI***
 - Postman, Neil, ***Amusing Ourselves to Death: Public Discourse in the Age of Show Business***
 
 ## *History*
