@@ -181,11 +181,11 @@
 }
 
 h1 /* .post-title */ {
-/*    font-size: 42px; */
-    letter-spacing: -1px;
+    font-size: 1.8em;
+    // letter-spacing: px;
     line-height: 1;
-    font-family: 'EB Garamond', sans-serif;
-    font-weight: 600;
+    font-family: 'Courier Prime', sans-serif;
+    font-weight: 400;
     color: "black";
 
     @include media-query($on-laptop) {
@@ -194,20 +194,26 @@ h1 /* .post-title */ {
 }
 
 h2 /* post-subtitle */ {
-    font-family: 'Staatliches';
-    font-weight: 300;
-    font-size: 23px;
+    font-family: 'Courier Prime';
+    font-weight: 400;
+    font-size: 1.5em;
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
     font-size: 1.2em;
-    font-weight: 400;
+    
+
+    h1 {
+        font-family: 'Courier Prime';
+        font-size: 1.5em;
+        font-weight: 700;
+    }
 
     h2 {
-		font-family: 'EB Garamond', 'Open Sans', sans-serif;
-	    font-weight: 500;
-/*      font-size: 32px; */
+		font-family: 'Courier Prime', 'Open Sans', sans-serif;
+	    font-weight: 400;
+        font-size: 1.3em;
 
         @include media-query($on-laptop) {
 /*            font-size: 28px; */

@@ -14,4 +14,6 @@ Previously, I conducted my [PhD CIFRE on conformal prediction for computer visio
 
 Before that, I obtained my Master's degree in Statistics & Econometrics at the prestigious <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics</a>, and my Bachelor's degree with a major in Computer Science and a minor in Economics at the <a href="https://www.balamand.edu.lb/home/Pages/default.aspx" target="_blank">University of Balamand</a> in my native country of Lebanon.
 
+**You can find my CV [over here!](/docs/Paul_Melki_CV_2022_updated.pdf)**
+
 I'm also interested in classical literature and arts (cinema, music, photography, architecture), trail running and hiking, philosophy (of science, ethics, metaphysics), as well as in the history of statistics and probability.

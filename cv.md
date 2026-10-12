@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé & News
-permalink: /resume/
+permalink: /cv/
 ---
 
 Please find an embedded copy of the current version of my resumé! You can also [download the PDF here!](/docs/Paul_Melki_CV_2022_updated.pdf)

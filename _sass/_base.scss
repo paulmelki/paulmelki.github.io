@@ -80,9 +80,6 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 200;
-}
 
 h1 { 
     font-size: 50;
@@ -90,8 +87,16 @@ h1 {
     font-weight: 500;
 }
 
-h3 {
+h2 {
+    font-family: 'Courier Prime';
     font-size: 32;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 20;
+    font-family: 'Courier Prime';
+    font-weight: 700;
 }
 
 

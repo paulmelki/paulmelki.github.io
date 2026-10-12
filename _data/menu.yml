@@ -1,17 +1,14 @@
 - title: "About"
   href: "/"
 
-- title: "Resume"
-  href: "/resume/"
-
 - title: "Research"
   href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
 
-- title: "Suggested Reads"
-  href: "/suggestedreads/"
+# - title: "Suggested Reads"
+#   href: "/suggestedreads/"
 
 - title: "Photography"
   href: "/photography/"
