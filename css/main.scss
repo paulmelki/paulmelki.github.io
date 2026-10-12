@@ -1,36 +1,118 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+--- 
+# front matter (can be empty, but the two --- lines are required) 
+--- 
 @charset "utf-8";
 
 
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-100-normal.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-100-italic.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-300-normal.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-300-italic.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-400-normal.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-400-italic.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-500-normal.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-500-italic.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-700-normal.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/clear-sans@5.3.0/latin-700-italic.woff2) format(woff2);
+}
+
 
 // Our variables
-$base-font-family: 'EB Garamond', 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   1.1em;
-$small-font-size:  calc(#{$base-font-size} * 0.875);
+$base-font-family: 'Clear Sans', 'EB Garamond', 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-size: 1em;
+$base-font-weight: 300;
+
+$small-font-size: calc(#{$base-font-size} * 0.875);
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit: 30px;
 
-$text-color:       #111;
+$text-color: #111;
 $background-color: #fdfdfd;
-$brand-color:      #0077CC;
+$brand-color: #0077CC;
 // $gameday-sky: #109dc0;
-$clemson-purple:      #015f66;
-$clemson-orange:      #035d69;
+$clemson-purple: #015f66;
+$clemson-orange: #035d69;
 
 
-$grey-color:       #828282;
+$grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark: darken($grey-color, 25%);
 
 
 // Width of the content area
-$content-width:    950px;
+$content-width: 950px;
 
-$on-palm:          600px;
-$on-laptop:        950px;
+$on-palm: 600px;
+$on-laptop: 950px;
 
 
 // Using media queries with like this:
@@ -49,12 +131,11 @@ $on-laptop:        950px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "header",
-	"mobile-header",
-        "base",
-        "layout",
-        "syntax-highlighting",
-	"fancy-image",
-	"table"
+@import "header",
+"mobile-header",
+"base",
+"layout",
+"syntax-highlighting",
+"fancy-image",
+"table"
 ;
