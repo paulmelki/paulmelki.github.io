@@ -60,5 +60,7 @@ For the full list, please do check my CV over here (link in preparation...).
 # Reviewing
 
 - **Journals:** *Precision Agriculture*.
-- **Workshops:** *Computer Vision for Plant Phenotyping and Agriculture (CVPPA)* at CVPR/ICCV/ECCV, *Safe AI for All Domains (SAIAD)* at CVPR.
+- **Workshops:**
+  - *Computer Vision for Plant Phenotyping and Agriculture (CVPPA)* at CVPR/ICCV/ECCV
+  - *Safe AI for All Domains (SAIAD)* at CVPR.
 
